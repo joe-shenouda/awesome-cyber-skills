@@ -11,7 +11,7 @@ In the USA, the most senior police officers, even long after their pension, are 
 
 Training your cyber skills means also keeping your hacking skills up to date. To do this, you need an environment to practice in, legally and safely.
 
-For this purpose, I have made a list of websites you can visit and practice your cyber skills. Every site has a different angle on the whole thing, so I'll summarize in a couple of words it's specifics.
+For this purpose, I have made a list of websites you can visit and practice your cyber skills. Every site has a different angle on the whole thing, so I'll summarize in a couple of words its specifics.
 
 Some sites will offer you tutorials to help you, others will require you to find things on your own.
 
