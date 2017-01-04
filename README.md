@@ -1,6 +1,21 @@
 # awesome-cyber-skills
 A curated list of hacking environments where you can train your cyber skills legally and safely
 
+For everyone in the Information Security business, it's important to understand the enemy, the hacker. Understanding the enemy makes you the best defender you can be to secure the digital world.
+
+By knowing your enemy, you can defeat your enemy.
+In the USA, the most senior police officers, even long after their pension, are advising residents how to secure their homes better. They come to your house and tell you where your weak points are around the house. They can advise this because they KNOW their enemy, the criminal that wants to break into the house and his techniques.
+
+Training your cyber skills means also keeping your hacking skills up to date. To do this, you need an environment to practice in, legally and safely.
+
+For this purpose, I have made a list of websites you can visit and practice your cyber skills. Every site has a different angle on the whole thing, so I'll summarize in a couple of words it's specifics.
+
+Some sites will offer you tutorials to help you, others will require you to find things on your own.
+
+I will update this post below regularly and add sites to this post so bookmark it to see the latest overview. 
+
+If you are missing a site not mentioned in the list, please give me the link, I might add it to the list.
+
 |Site name|Description|
 |:--|:--|
 |[$natch competition](http://blog.phdays.com/2012/05/once-again-about-remote-banking.html)|Remote banking system containing common vulnerabilities|
