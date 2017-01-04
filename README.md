@@ -118,6 +118,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[Try2Hack](http://www.try2hack.nl/)|Try2hack provides several security-oriented challenges for your entertainment. The challenges are diverse and get progressively harder.|
 |[UltimateLAMP](http://www.amanhardikar.com/mindmaps/practice-links.html)|UltimateLAMP is a fully functional environment allowing you to easily try and evaluate a number of LAMP stack software products without requiring any specific setup or configuration of these products.|
 |[Vicnum](http://vicnum.ciphertechs.com/)|Vicnum is an OWASP project consisting of vulnerable web applications based on games commonly used to kill time. These applications demonstrate common web security problems such as cross site scripting, sql injections, and session management issues.|
+|[Vulnhub](https://www.vulnhub.com/)|An extensive  collection of vulnerable VMs with user-created solutions.|
 |[Vulnix](https://www.rebootuser.com/?page_id=1041)|A vulnerable Linux host with configuration weaknesses rather than purposely vulnerable software versions.|
 |[Vulnserver](http://www.thegreycorner.com/2010/12/introducing-vulnserver.html)|Windows based threaded TCP server application that is designed to be exploited.|
 |[WackoPicko](https://github.com/adamdoupe/WackoPicko)|WackoPicko is a vulnerable web application used to test web application vulnerability scanners.|
