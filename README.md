@@ -1,9 +1,10 @@
 # awesome-cyber-skills
-A curated list of hacking environments where you can train your cyber skills legally and safely
+**A curated list of hacking environments where you can train your cyber skills legally and safely**
 
 For everyone in the Information Security business, it's important to understand the enemy, the hacker. Understanding the enemy makes you the best defender you can be to secure the digital world.
 
-By knowing your enemy, you can defeat your enemy.
+> By knowing your enemy, you can defeat your enemy. 
+
 In the USA, the most senior police officers, even long after their pension, are advising residents how to secure their homes better. They come to your house and tell you where your weak points are around the house. They can advise this because they KNOW their enemy, the criminal that wants to break into the house and his techniques.
 
 Training your cyber skills means also keeping your hacking skills up to date. To do this, you need an environment to practice in, legally and safely.
