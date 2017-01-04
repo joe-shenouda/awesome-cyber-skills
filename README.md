@@ -13,9 +13,26 @@ For this purpose, I have made a list of websites you can visit and practice your
 
 Some sites will offer you tutorials to help you, others will require you to find things on your own.
 
-I will update this post below regularly and add sites to this post so bookmark it to see the latest overview. 
+I will update this post below regularly and add sites to this post so bookmark it and/or follow me to see the latest overview. 
 
-If you are missing a site not mentioned in the list, please give me the link, I might add it to the list.
+If you are missing a site not mentioned in the list, feel free to [contribute](https://github.com/joe-shenouda/awesome-cyber-skills/blob/master/CONTRIBUTING).
+
+About the author
+----------------
+![Joe Shenouda](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAeoAAAAJGY0NjE2ZjVhLWY1NWQtNDE0My1hYzA1LTViNzY3YThiN2IwYg.jpg)
+Joe Shenouda has extensive experience in IT, ICS & Information Security as a hands-on technical engineer, trainer, consultant and research fellow with a successful record in developing and leading technical corporate Cyber security programs for global organizations.
+
+Previously well known in The Netherlands as "The Netdetective", Joe presented a MTV show on hacking for young adults.
+
+He started his Information Security career at Tilburg University in 1999 where he did research on Cyber security, cyber-crime, cyber forensics, privacy & data protection. 
+
+He has a strong expertise in concept and cyber security architecture development with a lot of hands on technical experience in cyber security systems. Joe was responsible for significant research work through OSINT and Darknet intel and was the lead responsible in numerous Information Assurance projects that involved cyber security approaches and systems for detection, prevention and mitigation of malicious activity. 
+
+As a hands-on technical specialist he knows very well how to use risk management in the planning phase while implementing the correct defense measures at the right place and able to lead a team doing that. Other than that Joe has done 100-s of security assessments and audits for numerous customers.
+
+As a subject matter expert on cyber security, Joe served both internally and externally as a trusted adviser and technical architect to senior management of government and industry on the topics of cyber security risk management, architecture, technical implementation, operations and compliance, as well as on infrastructure resilience, disaster recovery and business continuity. Joe also spoke frequently on cyber security and risk management at professional conferences, and published articles and blogs on issues relating to cyber security.
+
+Continuously managing risk and improving cyber security posture in complex enterprises is what he does best.
 
 |Site name|Description|
 |:--|:--|
