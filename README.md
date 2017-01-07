@@ -19,7 +19,11 @@ I will update this post below regularly and add sites to this post so bookmark i
 
 If you are missing a site not mentioned in the list, feel free to [contribute](https://github.com/joe-shenouda/awesome-cyber-skills/blob/master/CONTRIBUTING).
 
-About the author
+## CONTRIBUTORS
+- [foleranser](https://github.com/foleranser)
+- [filinpavel](https://github.com/filinpavel)
+
+## About the author
 ----------------
 ![Joe Shenouda](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAeoAAAAJGY0NjE2ZjVhLWY1NWQtNDE0My1hYzA1LTViNzY3YThiN2IwYg.jpg)
 [Joe Shenouda](https://nl.linkedin.com/in/josephshenouda) has extensive experience in IT, ICS & Information Security as a hands-on technical engineer, trainer, consultant and research fellow with a successful record in developing and leading technical corporate Cyber security programs for global organizations.
