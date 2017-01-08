@@ -54,7 +54,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[Cybrary.it](https://www.cybrary.it/)|Free and Open Source Cyber Security Learning.|
 |[Damn Vulnerable Android App](https://code.google.com/archive/p/dvaa/)|Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities.|
 |[Damn Vulnerable iOS App](http://damnvulnerableiosapp.com/)|Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable.|
-|[Damn Vulnerable Linux](https://www.vulnhub.com/series/damn-vulnerable-linux)|Damn Vulnerable Linux (DVL) is everything a good Linux distribution isn't. Its developers have spent hours stuffing it with broken, ill-configured, outdated, and exploitable software that makes it vulnerable to attacks.|
+|[Damn Vulnerable Linux](http://www.computersecuritystudent.com/SECURITY_TOOLS/DVL/lesson1/)|Damn Vulnerable Linux (DVL) is everything a good Linux distribution isn't. Its developers have spent hours stuffing it with broken, ill-configured, outdated, and exploitable software that makes it vulnerable to attacks.|
 |[Damn Vulnerable Router Firmware](https://github.com/praetorian-inc/DVRF)|The goal of this project is to simulate a real world environment to help people learn about other CPU architectures outside of the x86_64 space. This project will also help people get into discovering new things about hardware.|
 |[Dareyourmind](http://www.dareyourmind.net/)|Online game, hacker challenge.|
 |[EnigmaGroup](https://www.enigmagroup.org/)|Safe security resource, trains in exploits listed in the OWASP Top 10 Project and teach members the many other types of exploits that are found in today's applications.|
