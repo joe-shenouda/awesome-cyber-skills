@@ -22,6 +22,7 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 ## CONTRIBUTORS
 - [foleranser](https://github.com/foleranser)
 - [filinpavel](https://github.com/filinpavel)
+- [BenDrysdale](https://github.com/BenDrysdale)
 
 ## About the author
 ----------------
@@ -102,7 +103,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[OWASP Security Shepherd](https://www.owasp.org/index.php/OWASP_Security_Shepherd)|The OWASP Security Shepherd project is a web and mobile application security training platform.|
 |[OWASP SiteGenerator](https://www.owasp.org/index.php/Owasp_SiteGenerator)|OWASP SiteGenerator allows the creating of dynamic websites based on XML files and predefined vulnerabilities (some simple, some complex) covering .Net languages and web development architectures (for example, navigation: Html, Javascript, Flash, Java, etc...).|
 |[Pentesterlab](https://pentesterlab.com/exercises/from_sqli_to_shell)|This exercise explains how you can, from a SQL injection, gain access to the administration console, then in the administration console, how you can run commands on the system.|
-|[Pentestit.ru](https://lab.pentestit.ru/)|Pentestit.ru labs are free and emulate real IT infrastructure and is created for a legal pen testing and improving penetration testing skills. OpenVPN is required to connect to the lab.|
+|[Pentestit.ru](https://lab.pentestit.ru/)|Pentestit.ru has free labs that emulate real IT infrastructures. It is created for practising legal pen testing and improving penetration testing skills. OpenVPN is required to connect to the labs.|
 |[Peruggia](https://sourceforge.net/projects/peruggia/)|Peruggia is designed as a safe, legal environment to learn about and try common attacks on web applications. Peruggia looks similar to an image gallery, but contains several controlled vulnerabilities to practice on.|
 |[PicoCTF](https://picoctf.com/)|picoCTF is a computer security game targeted at middle and high school students. The game consists of a series of challenges centered around a unique storyline where participants must reverse engineer, break, hack, decrypt, or do whatever it takes to solve the challenge.|
 |[Puzzlemall](https://code.google.com/archive/p/puzzlemall/)|PuzzleMall - A vulnerable web application for practicing session puzzling|
