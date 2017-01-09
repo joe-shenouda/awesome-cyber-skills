@@ -113,6 +113,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[Ringzero](https://ringzer0team.com/challenges)|Challenges you can solve and gain points.|
 |[Root Me](https://www.root-me.org/)|Hundreds of challenges and virtual environments. Each challenge can be associated with a multitude of solutions so you can learn.|
 |[Scene One](http://21ltr.com/2012/06/19/21LTR-Scene-One-LiveCD/)|Scene One is a pentesting scenario liveCD made for a bit of fun and learning.|
+|[SEED Labs](http://www.cis.syr.edu/~wedu/seed/all_labs.html)|The SEED project has labs on Software, Network, Web, Mobile and System security and Cryptography labs.|
 |[SentinelTestbed](https://github.com/dobin/SentinelTestbed)|Vulnerable web site. Used to test sentinel features.|
 |[SG6 SecGame](http://sg6-labs.blogspot.nl/2007/12/secgame-1-sauron.html)|Spanish language, vulnerable GNU/Linux systems|
 |[SlaveHack](http://www.slavehack.com/)|My personal favorite : Slavehack is a virtual hack simulation game. Great for starters, I've seen kids in elementary school playing this!|
