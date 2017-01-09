@@ -54,7 +54,6 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[Cybertraining365](https://www.cybertraining365.com/cybertraining/FreeClasses)|Cybertraining365 has paid material but also offers free classes. The link is directed at the free classes.|
 |[Cybrary.it](https://www.cybrary.it/)|Free and Open Source Cyber Security Learning.|
 |[Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)|Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes. It supports majority of (most popular) web application vulnerabilities together with appropriate attacks.|
-|[Damnvulnerable.me](https://github.com/skepticfx/damnvulnerable.me)|A deliberately vulnerable modern day app with lots of DOM related bugs.|
 |[Damn Vulnerable Android App](https://code.google.com/archive/p/dvaa/)|Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities.|
 |[Damn Vulnerable Hybrid Mobile App](https://github.com/logicalhacking/DVHMA)|Damn Vulnerable Hybrid Mobile App (DVHMA) is an hybrid mobile app (for Android) that intentionally contains vulnerabilities.|
 |[Damn Vulnerable iOS App](http://damnvulnerableiosapp.com/)|Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable.|
@@ -63,6 +62,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[Damn Vulnerable Stateful Web App](https://github.com/silentsignal/damn-vulnerable-stateful-web-app)|Short and simple vulnerable PHP web application that naïve scanners found to be perfectly safe.|
 |[Damn Vulnerable Web App](http://www.dvwa.co.uk/)|Damn Vulnerable Web App (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goals are to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and aid teachers/students to teach/learn web application security in a class room environment.|
 |[Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws)|Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.|
+|[Damnvulnerable.me](https://github.com/skepticfx/damnvulnerable.me)|A deliberately vulnerable modern day app with lots of DOM related bugs.|
 |[Dareyourmind](http://www.dareyourmind.net/)|Online game, hacker challenge.|
 |[EnigmaGroup](https://www.enigmagroup.org/)|Safe security resource, trains in exploits listed in the OWASP Top 10 Project and teach members the many other types of exploits that are found in today's applications.|
 |[ENISA Training Material](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)|The European Union Agency for Network and Information Security (ENISA) Cyber Security Training. You will find training materials, handbooks for teachers, toolsets for students and Virtual Images to support hands-on training sessions.|
