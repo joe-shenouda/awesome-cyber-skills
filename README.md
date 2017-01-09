@@ -121,7 +121,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[SQLI labs](https://github.com/Audi-1/sqli-labs)|SQLI labs to test error based, Blind boolean based, Time based.|
 |[Sqlilabs](https://github.com/himadriganguly/sqlilabs)|Lab set-up for learning SQL Injection Techniques|
 |[SQLzoo](http://sqlzoo.net/hack/)|Try your Hacking skills against this test system. It takes you through the exploit step-by-step.|
-|[Stanford SecuriBench](https://suif.stanford.edu/)|Stanford SecuriBench is a set of open source real-life programs to be used as a testing ground for static and dynamic security tools. Release .91a focuses on Web-based applications written in Java.|
+|[Stanford SecuriBench](https://suif.stanford.edu/~livshits/securibench/)|Stanford SecuriBench is a set of open source real-life programs to be used as a testing ground for static and dynamic security tools. Release .91a focuses on Web-based applications written in Java.|
 |[The ButterFly - Security Project](https://sourceforge.net/projects/thebutterflytmp/?source=navbar)|The ButterFly project is an educational environment intended to give an insight into common web application and PHP vulnerabilities. The environment also includes examples demonstrating how such vulnerabilities are mitigated.|
 |[ThisIsLegal](http://www.thisislegal.com/)|A hacker wargames site but also with much more.|
 |[Try2Hack](http://www.try2hack.nl/)|Try2hack provides several security-oriented challenges for your entertainment. The challenges are diverse and get progressively harder.|
