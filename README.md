@@ -54,6 +54,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[Cybertraining365](https://www.cybertraining365.com/cybertraining/FreeClasses)|Cybertraining365 has paid material but also offers free classes. The link is directed at the free classes.|
 |[Cybrary.it](https://www.cybrary.it/)|Free and Open Source Cyber Security Learning.|
 |[Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)|Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes. It supports majority of (most popular) web application vulnerabilities together with appropriate attacks.|
+|[Damnvulnerable.me](https://github.com/skepticfx/damnvulnerable.me)|A deliberately vulnerable modern day app with lots of DOM related bugs|
 |[Damn Vulnerable Android App](https://code.google.com/archive/p/dvaa/)|Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities.|
 |[Damn Vulnerable iOS App](http://damnvulnerableiosapp.com/)|Damn Vulnerable iOS App (DVIA) is an iOS application that is damn vulnerable.|
 |[Damn Vulnerable Linux](http://www.computersecuritystudent.com/SECURITY_TOOLS/DVL/lesson1/)|Damn Vulnerable Linux (DVL) is everything a good Linux distribution isn't. Its developers have spent hours stuffing it with broken, ill-configured, outdated, and exploitable software that makes it vulnerable to attacks.|
