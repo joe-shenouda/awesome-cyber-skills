@@ -91,7 +91,8 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[Hellbound Hackers](https://www.hellboundhackers.org/)|Learn a hands-on approach to computer security. Learn how hackers break in, and how to keep them out.|
 |[Holynix](https://sourceforge.net/projects/holynix/files/)|Holynix is an Linux vmware image that was deliberately built to have security holes for the purposes of penetration testing.|
 |[HSCTF3](http://hsctf.com/)|HSCTF is an international online hacking competition designed to educate high schoolers in computer science.|
-|[Juice Shop](https://github.com/bkimminich/juice-shop)|OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws|
+|[Java Vulnerable Lab](https://github.com/CSPF-Founder/JavaVulnerableLab)|Vulnerable Java based Web Application.|
+|[Juice Shop](https://github.com/bkimminich/juice-shop)|OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.|
 |[Ka0labs](https://challenges.ka0labs.org/home)|Here you will find jeopardy-style challenges without stressfull time-limits of regular CTFs.|
 |[Kioptrix VM](http://www.kioptrix.com/blog/a-new-vm-after-almost-2-years/)|This vulnerable machine is a good starting point for beginners.|
 |[LAMPSecurity Training](https://sourceforge.net/projects/lampsecurity/)|LAMPSecurity training is designed to be a series of vulnerable virtual machine images along with complementary documentation designed to teach linux,apache,php,mysql security.|
