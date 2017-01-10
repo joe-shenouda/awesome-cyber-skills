@@ -63,6 +63,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[Damn Vulnerable Thick Client App](https://github.com/secvulture/dvta)|DVTA is a Vulnerable Thick Client Application developed in C# .NET with many vulnerabilities.|
 |[Damn Vulnerable Web App](http://www.dvwa.co.uk/)|Damn Vulnerable Web App (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goals are to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and aid teachers/students to teach/learn web application security in a class room environment.|
 |[Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws)|Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real world web service vulnerabilities.|
+|[Damn Vulnerable Web Sockets](https://github.com/interference-security/DVWS)|Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.|
 |[Damnvulnerable.me](https://github.com/skepticfx/damnvulnerable.me)|A deliberately vulnerable modern day app with lots of DOM related bugs.|
 |[Dareyourmind](http://www.dareyourmind.net/)|Online game, hacker challenge.|
 |[DIVA Android](https://github.com/payatu/diva-android)|Damn Insecure and vulnerable App for Android.|
