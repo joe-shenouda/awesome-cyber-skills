@@ -93,6 +93,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[Holynix](https://sourceforge.net/projects/holynix/files/)|Holynix is an Linux vmware image that was deliberately built to have security holes for the purposes of penetration testing.|
 |[HSCTF3](http://hsctf.com/)|HSCTF is an international online hacking competition designed to educate high schoolers in computer science.|
 |[Information Assurance Support Environment (IASE)](http://iase.disa.mil/eta/Pages/index.aspx)|Great site with Cybersecurity Awareness Training, Cybersecurity Training for IT Managers, Cybersecurity Training for Cybersecurity Professionals, Cybersecurity Technical Training, NetOps Training, Cyber Law Awareness, and FSO Tools Training available online.|
+|[InfoSec Institute](http://resources.infosecinstitute.com/free-cissp-training-study-guide/)|Free CISSP Training course.|
 |[Java Vulnerable Lab](https://github.com/CSPF-Founder/JavaVulnerableLab)|Vulnerable Java based Web Application.|
 |[Juice Shop](https://github.com/bkimminich/juice-shop)|OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.|
 |[Ka0labs](https://challenges.ka0labs.org/home)|Here you will find jeopardy-style challenges without stressfull time-limits of regular CTFs.|
