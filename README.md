@@ -94,6 +94,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[HSCTF3](http://hsctf.com/)|HSCTF is an international online hacking competition designed to educate high schoolers in computer science.|
 |[Information Assurance Support Environment (IASE)](http://iase.disa.mil/eta/Pages/index.aspx)|Great site with Cybersecurity Awareness Training, Cybersecurity Training for IT Managers, Cybersecurity Training for Cybersecurity Professionals, Cybersecurity Technical Training, NetOps Training, Cyber Law Awareness, and FSO Tools Training available online.|
 |[InfoSec Institute](http://resources.infosecinstitute.com/free-cissp-training-study-guide/)|Free CISSP Training course.|
+|[ISC2 Center for Cyber Safety and Education](https://safeandsecureonline.org/)|Site to empower students, teachers, and whole communities to secure their online life through cyber security education and awareness with the Safe and Secure Online educational program; information security scholarships; and industry and consumer research.|
 |[Java Vulnerable Lab](https://github.com/CSPF-Founder/JavaVulnerableLab)|Vulnerable Java based Web Application.|
 |[Juice Shop](https://github.com/bkimminich/juice-shop)|OWASP Juice Shop is an intentionally insecure webapp for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.|
 |[Ka0labs](https://challenges.ka0labs.org/home)|Here you will find jeopardy-style challenges without stressfull time-limits of regular CTFs.|
