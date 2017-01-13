@@ -126,6 +126,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[Pwnerrank](https://www.pwnerrank.com/)|A Capture The Flag platform dedicated for information security learning, training and practicing by solving a set challenges.|
 |[Pwnos](http://www.pwnos.com/)|PwnOS is a vulnerable by design OS .. and there are many ways you can hack it.|
 |[Ringzero](https://ringzer0team.com/challenges)|Challenges you can solve and gain points.|
+|[Risk3Sixty](http://www.risk3sixty.com/free-information-security-training/)|Free Information Security training video, an information security examination and the exam answer key.|
 |[Root Me](https://www.root-me.org/)|Hundreds of challenges and virtual environments. Each challenge can be associated with a multitude of solutions so you can learn.|
 |[SANS Cyber Aces](http://www.cyberaces.org/courses/)|SANS Cyber Aces Online makes available, free and online, selected courses from the professional development curriculum offered by The SANS Institute, the global leader in cyber security training.|
 |[Scene One](http://21ltr.com/2012/06/19/21LTR-Scene-One-LiveCD/)|Scene One is a pentesting scenario liveCD made for a bit of fun and learning.|
