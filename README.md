@@ -136,6 +136,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[SentinelTestbed](https://github.com/dobin/SentinelTestbed)|Vulnerable web site. Used to test sentinel features.|
 |[SG6 SecGame](http://sg6-labs.blogspot.nl/2007/12/secgame-1-sauron.html)|Spanish language, vulnerable GNU/Linux systems.|
 |[SlaveHack](http://www.slavehack.com/)|My personal favorite : Slavehack is a virtual hack simulation game. Great for starters, I've seen kids in elementary school playing this!|
+|[SlaveHack 2 *BETA*](https://www.slavehack2.com/)|Slavehack 2 is a sequel on the original Slavehack. It's also a virtual hack simulation game but you will find features much more closer to today's Cyber reality.|
 |[Smashthestack](http://smashthestack.org/)|This network hosts several different wargames, ranging in difficulty. A wargame, in this context, is an environment that simulates software vulnerabilities and allows for the legal execution of exploitation techniques.|
 |[SocketToMe](https://digi.ninja/projects/sockettome.php)|SocketToMe SocketToMe is little application for testing web sockets.|
 |[SQLI labs](https://github.com/Audi-1/sqli-labs)|SQLI labs to test error based, Blind boolean based, Time based.|
