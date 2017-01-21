@@ -127,6 +127,8 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[Pwnable.kr](http://pwnable.kr/)|'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. while playing pwnable.kr, you could learn/improve system hacking skills but that shouldn't be your only purpose.|
 |[Pwnerrank](https://www.pwnerrank.com/)|A Capture The Flag platform dedicated for information security learning, training and practicing by solving a set challenges.|
 |[Pwnos](http://www.pwnos.com/)|PwnOS is a vulnerable by design OS .. and there are many ways you can hack it.|
+|[Reversing.kr](http://reversing.kr/index.php)|This site tests your ability to Cracking & Reverse Code Engineering.
+|
 |[Ringzero](https://ringzer0team.com/challenges)|Challenges you can solve and gain points.|
 |[Risk3Sixty](http://www.risk3sixty.com/free-information-security-training/)|Free Information Security training video, an information security examination and the exam answer key.|
 |[Root Me](https://www.root-me.org/)|Hundreds of challenges and virtual environments. Each challenge can be associated with a multitude of solutions so you can learn.|
@@ -151,6 +153,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[Vulnhub](https://www.vulnhub.com/)|An extensive  collection of vulnerable VMs with user-created solutions.|
 |[Vulnix](https://www.rebootuser.com/?page_id=1041)|A vulnerable Linux host with configuration weaknesses rather than purposely vulnerable software versions.|
 |[Vulnserver](http://www.thegreycorner.com/2010/12/introducing-vulnserver.html)|Windows based threaded TCP server application that is designed to be exploited.|
+|[W3Challs](https://w3challs.com)|W3Challs is a penetration testing training platform, which offers various computer challenges, in categories related to security|
 |[WackoPicko](https://github.com/adamdoupe/WackoPicko)|WackoPicko is a vulnerable web application used to test web application vulnerability scanners.|
 |[Web Attack and Exploitation Distro](http://www.waed.info/)|WAED is pre-configured with various real-world vulnerable web applications in a sandboxed environment. It includes pentesting tools as well.|
 |[Web Security Dojo](https://sourceforge.net/projects/websecuritydojo/)|Web Security Dojo is a preconfigured, stand-alone training environment for Web Application Security.|
