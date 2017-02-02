@@ -48,6 +48,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[BodgeIt Store](https://github.com/psiinon/bodgeit)|The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.|
 |[Bright Shadows](http://www.bright-shadows.net/)|Training in Programming, JavaScript, PHP, Java, Steganography, and Cryptography (among others).|
 |[bWAPP](http://www.itsecgames.com/)|bWAPP, or a buggy web application, is a free and open source deliberately insecure web application.|
+|[CTFLearn](https://ctflearn.com/)|Platform for practising CTF exercises by solving user-submitted challenges or creating your own.|
 |[Cyber Degrees](http://www.cyberdegrees.org/resources/free-online-courses/)|Free online cyber security Massive Open Online Courses (MOOCS).|
 |[Commix testbed](https://github.com/commixproject/commix-testbed)|A collection of web pages, vulnerable to command injection flaws.|
 |[CryptOMG](https://github.com/SpiderLabs/CryptOMG)|CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.|
