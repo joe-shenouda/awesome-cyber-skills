@@ -51,6 +51,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[Cyber Degrees](http://www.cyberdegrees.org/resources/free-online-courses/)|Free online cyber security Massive Open Online Courses (MOOCS).|
 |[Commix testbed](https://github.com/commixproject/commix-testbed)|A collection of web pages, vulnerable to command injection flaws.|
 |[CryptOMG](https://github.com/SpiderLabs/CryptOMG)|CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.|
+|[Cyber Security Base](https://cybersecuritybase.github.io/)|Cyber Security Base is page with free courses by University of Helsinki in collaboration with F-Secure.|
 |[Cybersecuritychallenge UK](https://pod.cybersecuritychallenge.org.uk/)|Cyber Security Challenge UK runs a series of competitions designed to test your cyber security skills.|
 |[Cybertraining365](https://www.cybertraining365.com/cybertraining/FreeClasses)|Cybertraining365 has paid material but also offers free classes. The link is directed at the free classes.|
 |[Cybrary.it](https://www.cybrary.it/)|Free and Open Source Cyber Security Learning.|
