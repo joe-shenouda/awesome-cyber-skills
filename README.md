@@ -26,7 +26,7 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 
 ## About the author
 ----------------
-<img alt="Joe Shenouda" align="left" hspace="10" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAtjAAAAJGNjNWE1YzZmLWE3M2UtNDg5YS1hMzQ4LTNiODZhNGFkNGRiMw.jpg">
+<img alt="Joe Shenouda" align="left" hspace="10" src="https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAtjAAAAJGNjNWE1YzZmLWE3M2UtNDg5YS1hMzQ4LTNiODZhNGFkNGRiMw.jpg"> 
 [Joe Shenouda](https://nl.linkedin.com/in/josephshenouda) has extensive experience in IT, ICS & Information Security as a hands-on technical engineer, trainer, consultant and research fellow with a successful record in developing and leading technical corporate Cyber security programs for global organizations.
 
 Previously well known in The Netherlands as "The Netdetective", Joe presented an MTV show on hacking for young adults.
