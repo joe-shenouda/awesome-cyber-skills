@@ -129,8 +129,7 @@ Continuously managing risk and improving cyber security posture in complex enter
 |[Pwnable.kr](http://pwnable.kr/)|'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. while playing pwnable.kr, you could learn/improve system hacking skills but that shouldn't be your only purpose.|
 |[Pwnerrank](https://www.pwnerrank.com/)|A Capture The Flag platform dedicated to information security learning, training and practicing by solving a set challenges.|
 |[Pwnos](http://www.pwnos.com/)|PwnOS is a vulnerable by design OS .. and there are many ways you can hack it.|
-|[Reversing.kr](http://reversing.kr/index.php)|This site tests your ability to Cracking & Reverse Code Engineering.
-|
+|[Reversing.kr](http://reversing.kr)|This site tests your ability to Cracking & Reverse Code Engineering.|
 |[Ringzero](https://ringzer0team.com/challenges)|Challenges you can solve and gain points.|
 |[Risk3Sixty](http://www.risk3sixty.com/free-information-security-training/)|Free Information Security training video, an information security examination and the exam answer key.|
 |[Root Me](https://www.root-me.org/)|Hundreds of challenges and virtual environments. Each challenge can be associated with a multitude of solutions so you can learn.|
