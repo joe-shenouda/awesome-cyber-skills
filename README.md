@@ -38,7 +38,7 @@ Using the latest hacking techniques, he will also educate the audience to explai
 
 He can also simulate a DOS attack that brings the strongest networks down. 
 
-Well known in The Netherlands as "The Netdetective", Joe presented an MTV show on hacking for young adults.
+Well known in The Netherlands as "The Netdetective", Joe presented a MTV show on hacking for young adults.
 
 He started his Information Security career at Tilburg University in 1999 where he did research on Cybersecurity, Cybercrime, cyber forensics, privacy & data protection. 
 
