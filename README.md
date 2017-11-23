@@ -51,6 +51,7 @@ Security Cleared for several projects.
 |Site name|Description|
 |:--|:--|
 |[$natch competition](http://blog.phdays.com/2012/05/once-again-about-remote-banking.html)|Remote banking system containing common vulnerabilities.|
+|[Another CTF](http://vulnerablesite.freecluster.eu/)A challenge created by a student that is a fun challenge for beginners and ramps up in difficulty into an intense practice session for proffesionals|
 |[Arizona Cyber Warfare Range](http://azcwr.org/)|The ranges offer an excellent platform for you to learn computer network attack (CNA), computer network defense (CND), and digital forensics (DF). You can play any of these roles.|
 |[Avatao](https://www.avatao.com/)|More than 350 hands-on challenges (free and paid) to master IT security and it's growing day by day.|
 |[BodgeIt Store](https://github.com/psiinon/bodgeit)|The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.|
@@ -171,5 +172,5 @@ Security Cleared for several projects.
 |[WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)|WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons. You can install and practice with WebGoat.|
 |[Wechall](http://www.wechall.net/)|Focussed on offering computer-related problems. You will find Cryptographic, Crackit, Steganography, Programming, Logic and Math/Science. The difficulty of these challenges vary as well.|
 |[XSS-game](https://xss-game.appspot.com/)|In this training program, you will learn to find and exploit XSS bugs. You'll use this knowledge to confuse and infuriate your adversaries by preventing such bugs from happening in your applications.|
-|[XVWA](https://github.com/s4n7h0/xvwa)|XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.|
-
+|[XVWA](https://github.com/s4n7h0/xvwa)|XVWA is a badly coded web applic
+ation written in PHP/MySQL that helps security enthusiasts to learn application security.|
