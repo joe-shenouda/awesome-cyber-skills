@@ -145,6 +145,7 @@ Security Cleared for several projects.
 |[RPISEC/Malware](https://github.com/RPISEC/Malware)|Malware Analysis Course materials.|
 |[SANS Cyber Aces](http://www.cyberaces.org/courses/)|SANS Cyber Aces Online makes available, free and online, selected courses from the professional development curriculum offered by The SANS Institute, the global leader in cyber security training.|
 |[Scene One](http://21ltr.com/2012/06/19/21LTR-Scene-One-LiveCD/)|Scene One is a pen testing scenario liveCD made for a bit of fun and learning.|
+|[Secure Code Warrior](https://portal.securecodewarrior.com/#/learning-resources/)|Secure Code Warrior offers (free and paid) learning and hands-on exercises on secure coding in JAVA Spring/Enterprise, C#, Node.JS, Ruby on Rails, Python Django and C/C++.|
 |[SEED Labs](http://www.cis.syr.edu/~wedu/seed/all_labs.html)|The SEED project has labs on Software, Network, Web, Mobile and System security and Cryptography labs.|
 |[SentinelTestbed](https://github.com/dobin/SentinelTestbed)|Vulnerable website. Used to test sentinel features.|
 |[SG6 SecGame](http://sg6-labs.blogspot.nl/2007/12/secgame-1-sauron.html)|Spanish language, vulnerable GNU/Linux systems.|
