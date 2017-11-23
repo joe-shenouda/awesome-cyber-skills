@@ -23,6 +23,7 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 - [foleranser](https://github.com/foleranser)
 - [filinpavel](https://github.com/filinpavel)
 - [BenDrysdale](https://github.com/BenDrysdale)
+- [HrushikeshK](https://github.com/HrushikeshK)
 
 ## About the author
 ----------------
