@@ -110,6 +110,7 @@ Security Cleared for several projects.
 |[Ka0labs](https://challenges.ka0labs.org/home)|Here you will find jeopardy-style challenges without stressful time-limits of regular CTFs.|
 |[Kioptrix VM](http://www.kioptrix.com/blog/a-new-vm-after-almost-2-years/)|This vulnerable machine is a good starting point for beginners.|
 |[LAMPSecurity Training](https://sourceforge.net/projects/lampsecurity/)|LAMPSecurity training is designed to be a series of vulnerable virtual machine images along with complementary documentation designed to teach Linux,apache,PHP,MySQL security.|
+| [Learn.ITUniversity.ro] (https://learn.ituniversity.ro)| Cyber Security and Penetration testing video courses, based on hands-on labs with downloadable virtual machines. For the moment there are only paid courses, but you can use FIRSTSTEP101 coupon for 90% OFF for most of the courses.|
 |[Magical Code Injection Rainbow](https://github.com/SpiderLabs/MCIR)|The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.|
 |[McAfee HacMe Sites](http://www.mcafee.com/us/downloads/free-tools/index.aspx)|Search the page for HacMe and you'll find a suite of learning tools.|
 |[Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/)|Free Ethical Hacking Course.|
