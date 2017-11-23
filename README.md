@@ -45,8 +45,9 @@ He has a strong expertise in concept & cyber security architecture development w
 
 Joe also spoke frequently on cyber security & hacking at professional conferences & published articles & blogs on issues relating to cybersecurity.
 
-Security Cleared for several projects.
-🌿 [Visit me on LinkedIn](https://nl.linkedin.com/in/josephshenouda)
+🌿 Visit me on [LinkedIn](https://nl.linkedin.com/in/josephshenouda) or [Twitter](https://twitter.com/JoeyShenouda)
+
+Please share this list if you find it useful. Let me know if you like it
 
 |Site name|Description|
 |:--|:--|
