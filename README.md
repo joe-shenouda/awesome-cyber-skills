@@ -109,7 +109,6 @@ Security Cleared for several projects.
 |[ISC2 Center for Cyber Safety and Education](https://safeandsecureonline.org/)|Site to empower students, teachers, and whole communities to secure their online life through cyber security education and awareness with the Safe and Secure Online educational program; information security scholarships; and industry and consumer research.|
 |[Java Vulnerable Lab](https://github.com/CSPF-Founder/JavaVulnerableLab)|Vulnerable Java based Web Application.|
 |[Juice Shop](https://github.com/bkimminich/juice-shop)|OWASP Juice Shop is an intentionally insecure web app for security trainings written entirely in Javascript which encompasses the entire OWASP Top Ten and other severe security flaws.|
-|[Ka0labs](https://challenges.ka0labs.org/home)|Here you will find jeopardy-style challenges without stressful time-limits of regular CTFs.|
 |[Kioptrix VM](http://www.kioptrix.com/blog/a-new-vm-after-almost-2-years/)|This vulnerable machine is a good starting point for beginners.|
 |[LAMPSecurity Training](https://sourceforge.net/projects/lampsecurity/)|LAMPSecurity training is designed to be a series of vulnerable virtual machine images along with complementary documentation designed to teach Linux,apache,PHP,MySQL security.|
 |[Magical Code Injection Rainbow](https://github.com/SpiderLabs/MCIR)|The Magical Code Injection Rainbow! MCIR is a framework for building configurable vulnerability testbeds. MCIR is also a collection of configurable vulnerability testbeds.|
