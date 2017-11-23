@@ -61,7 +61,7 @@ Security Cleared for several projects.
 |[CryptOMG](https://github.com/SpiderLabs/CryptOMG)|CryptOMG is a configurable CTF style test bed that highlights common flaws in cryptographic implementations.|
 |[Cyber Security Base](https://cybersecuritybase.github.io/)|Cyber Security Base is page with free courses by University of Helsinki in collaboration with F-Secure.|
 |[Cybersecuritychallenge UK](https://pod.cybersecuritychallenge.org.uk/)|Cyber Security Challenge UK runs a series of competitions designed to test your cyber security skills.|
-|[Cybertraining365](https://www.cybertraining365.com/cybertraining/FreeClasses)|Cybertraining365 has paid material but also offers free classes. The link is directed at the free classes.|
+|[CyberTraining 365](https://www.cybertraining365.com/cybertraining/FreeClasses)|Cybertraining365 has paid material but also offers free classes. The link is directed at the free classes.|
 |[Cybrary.it](https://www.cybrary.it/)|Free and Open Source Cyber Security Learning.|
 |[Damn Small Vulnerable Web](https://github.com/stamparm/DSVW)|Damn Small Vulnerable Web (DSVW) is a deliberately vulnerable web application written in under 100 lines of code, created for educational purposes. It supports majority of (most popular) web application vulnerabilities together with appropriate attacks.|
 |[Damn Vulnerable Android App](https://code.google.com/archive/p/dvaa/)|Damn Vulnerable Android App (DVAA) is an Android application which contains intentional vulnerabilities.|
