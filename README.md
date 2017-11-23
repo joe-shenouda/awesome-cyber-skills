@@ -27,19 +27,26 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 ## About the author
 ----------------
 ![](https://i.imgur.com/DKUWpJu.jpg) 
-[Joe Shenouda](https://nl.linkedin.com/in/josephshenouda) has extensive experience in IT, ICS & Information Security as a hands-on technical engineer, trainer, consultant and research fellow with a successful record in developing and leading technical corporate Cyber security programs for global organizations.
+[Joe Shenouda](https://nl.linkedin.com/in/josephshenouda) has extensive experience in IT, ICS & Information Security as an international hands-on technical engineer, trainer, consultant & research fellow with a successful record in developing & leading technical corporate Cybersecurity programs for military & global organizations.
 
-Previously well known in The Netherlands as "The Netdetective", Joe presented an MTV show on hacking for young adults.
+Joe uses risk management in the planning phase while implementing the correct defense measures at the right place & has lead teams doing that. He has done 100-s of security assessments & audits for numerous customers.
 
-He started his Information Security career at Tilburg University in 1999 where he did research on Cyber security, cybercrime, cyber forensics, privacy & data protection. 
+Apart from vulnerability assessments, Joe gives LIVE hack shows where, w̲i̲t̲h̲ ̲y̲o̲u̲r̲ ̲p̲e̲r̲m̲i̲s̲s̲i̲o̲n̲, he will take over a server/computer, a phone or hack everyone in the room in one hit, without hurting anyone. 
 
-He has a strong expertise in concept and cyber security architecture development with a lot of hands-on technical experience in cyber security systems. Joe was responsible for significant research work through OSINT and Darknet intel and was the lead responsible in numerous Information Assurance projects that involved cyber security approaches and systems for detection, prevention, and mitigation of malicious activity. 
+Using the latest hacking techniques, he will also educate the audience to explain what just happened. Joe uses Man-in-the-Middle attacks, ARP Poisoning, Sniffing, Script injections, DNS spoofing & hijacks sessions that are happening on devices & explains how to prevent them in a LIVE setting. 
 
-As a hands-on technical specialist, he knows very well how to use risk management in the planning phase while implementing the correct defense measures at the right place and able to lead a team doing that. Other than that Joe has done 100-s of security assessments and audits for numerous customers.
+He can also simulate a DOS attack that brings the strongest networks down. 
 
-As a subject matter expert on cyber security, Joe served both internally and externally as a trusted adviser and technical architect to senior management of government and industry on the topics of cyber security risk management, architecture, technical implementation, operations and compliance, as well as on infrastructure resilience, disaster recovery, and business continuity. Joe also spoke frequently on cyber security and risk management at professional conferences and published articles and blogs on issues relating to cyber security.
+Well known in The Netherlands as "The Netdetective", Joe presented an MTV show on hacking for young adults.
 
-Continuously managing risk and improving cyber security posture in complex enterprises is what he does best.
+He started his Information Security career at Tilburg University in 1999 where he did research on Cybersecurity, Cybercrime, cyber forensics, privacy & data protection. 
+
+He has a strong expertise in concept & cyber security architecture development with a lot of hands-on technical experience in cybersecurity systems. Joe was responsible for significant research work through OSINT & Darknet intel & he was the lead responsible for numerous Information Assurance projects that involved cybersecurity approaches & systems for detection, prevention, & mitigation of malicious activity. 
+
+Joe also spoke frequently on cyber security & hacking at professional conferences & published articles & blogs on issues relating to cybersecurity.
+
+Security Cleared for several projects.
+🌿 [Visit me on LinkedIn](https://nl.linkedin.com/in/josephshenouda)
 
 |Site name|Description|
 |:--|:--|
