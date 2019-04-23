@@ -31,23 +31,28 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 
 [Joe Shenouda](https://nl.linkedin.com/in/josephshenouda)
 
-Our work is no longer to secure computers alone, it's now about securing society.
+"Our work is no longer to secure computers alone, it's now about securing society."
 
-* What I am *
+♦️ About Me ♦️
+
 International hands-on technical leader, engineer, speaker, trainer, consultant & research fellow on all topics regarding Cybersecurity
 
-* My past achievements *
+♦️ My past achievements ♦️
+
 Developing & leading technical corporate Cybersecurity programs for military & global organizations
 Well known in The Netherlands as "The Netdetective" ( I co-presented a MTV show on hacking for young adults)
 Numerous Information Assurance projects
 
-* My research work *
+♦️ My research work ♦️
+
 Cybersecurity, Cyber Crime, Cyber Forensics, Privacy & Data protection / latest hacking techniques / OSINT / Darknet intel 
 
-* When my professional career started in Cyber Security * 
+♦️ When my professional career started in Cyber Security ♦️
+
 April 1999 at Tilburg University
 
-* What I do *
+♦️ What I do ♦️
+
 Implementing the correct defense measures at the right place
 Leading teams in security projects
 Risk management in the planning phase
@@ -59,7 +64,8 @@ Educate the audience & Train Students
 Publish articles & blogs on cybersecurity ** https://www.cyber-consult.org
 Interviews to the media on issues relating to cybersecurity
 
-* Memberships *
+♦️ Memberships ♦️
+
 Advisory Board Member for EC-Council
 Voting Member for ISA ( industrial security )
 International intelligence
@@ -67,7 +73,8 @@ Malware analysis community
 
 Specialities: Cyber & Information Security / ICS Industrial Cyber Security / Man-in-the-Middle attacks / ARP Poisoning / Sniffing / Script injections / DNS spoofing & Session Hijacking / Setting up enormous DDOS simulations / Concept & Cybersecurity architecture development of approaches & systems for detection, prevention, and mitigation of malicious activity.
 
-* Other skills * 
+♦️ Other skills ♦️ 
+
 Setting up live streams for events on Youtube Live (using my own programmed software)
 
 Security Cleared for several projects.
