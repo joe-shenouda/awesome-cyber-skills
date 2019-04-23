@@ -1,7 +1,7 @@
 # awesome-cyber-skills
 **A curated list of hacking environments where you can train your cyber skills legally and safely**
 
-![](https://media.licdn.com/mpr/mpr/AAEAAQAAAAAAAAg_AAAAJDE0NmI0OGMzLTcyYTUtNGJhMS1iZjM4LWRmYzEwODM0ZWFhNg.jpg)
+![](https://i.imgur.com/GwhKPt6.jpg)
 
 For everyone in the Information Security business, it's important to understand the enemy, the hacker. Understanding the enemy makes you the best defender you can be to secure the digital world.
 
