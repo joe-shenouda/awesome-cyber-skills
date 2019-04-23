@@ -30,6 +30,7 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 ![](https://i.imgur.com/DKUWpJu.jpg)
 
 [Joe Shenouda](https://nl.linkedin.com/in/josephshenouda)
+
 Our work is no longer to secure computers alone, it's now about securing society.
 
 * What I am *
