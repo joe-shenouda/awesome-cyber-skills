@@ -28,24 +28,47 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 ## About the author
 ----------------
 ![](https://i.imgur.com/DKUWpJu.jpg) 
-[Joe Shenouda](https://nl.linkedin.com/in/josephshenouda) has extensive experience in IT, ICS & Information Security as an international hands-on technical engineer, trainer, consultant & research fellow with a successful record in developing & leading technical corporate Cybersecurity programs for military & global organizations.
+[Joe Shenouda](https://nl.linkedin.com/in/josephshenouda)Our work is no longer to secure computers alone, it's now about securing society.
 
-Joe uses risk management in the planning phase while implementing the correct defense measures at the right place & has lead teams doing that. He has done 100-s of security assessments & audits for numerous customers.
+* What I am *
+International hands-on technical leader, engineer, speaker, trainer, consultant & research fellow on all topics regarding Cybersecurity
 
-Apart from vulnerability assessments, Joe gives LIVE hack shows where, w̲i̲t̲h̲ ̲y̲o̲u̲r̲ ̲p̲e̲r̲m̲i̲s̲s̲i̲o̲n̲, he will take over a server/computer, a phone or hack everyone in the room in one hit, without hurting anyone. 
+* My past achievements *
+Developing & leading technical corporate Cybersecurity programs for military & global organizations
+Well known in The Netherlands as "The Netdetective" ( I co-presented a MTV show on hacking for young adults)
+Numerous Information Assurance projects
 
-Using the latest hacking techniques, he will also educate the audience to explain what just happened. Joe uses Man-in-the-Middle attacks, ARP Poisoning, Sniffing, Script injections, DNS spoofing & hijacks sessions that are happening on devices & explains how to prevent them in a LIVE setting. 
+* My research work *
+Cybersecurity, Cyber Crime, Cyber Forensics, Privacy & Data protection / latest hacking techniques / OSINT / Darknet intel 
 
-He can also simulate a DOS attack that brings the strongest networks down. 
+* When my professional career started in Cyber Security * 
+April 1999 at Tilburg University
 
-Well known in The Netherlands as "The Netdetective", Joe presented a MTV show on hacking for young adults.
+* What I do *
+Implementing the correct defense measures at the right place
+Leading teams in security projects
+Risk management in the planning phase
+Vulnerability assessments
+Security assessments & audits
+Analyze new malware & explain it
+Live hack demos
+Educate the audience & Train Students
+Publish articles & blogs on cybersecurity ** https://www.cyber-consult.org
+Interviews to the media on issues relating to cybersecurity
 
-He started his Information Security career at Tilburg University in 1999 where he did research on Cybersecurity, Cybercrime, cyber forensics, privacy & data protection. 
+* Memberships *
+Advisory Board Member for EC-Council
+Voting Member for ISA ( industrial security )
+International intelligence
+Malware analysis community
 
-He has a strong expertise in concept & cyber security architecture development with a lot of hands-on technical experience in cybersecurity systems. Joe was responsible for significant research work through OSINT & Darknet intel & he was the lead responsible for numerous Information Assurance projects that involved cybersecurity approaches & systems for detection, prevention, & mitigation of malicious activity. 
+Specialities: Cyber & Information Security / ICS Industrial Cyber Security / Man-in-the-Middle attacks / ARP Poisoning / Sniffing / Script injections / DNS spoofing & Session Hijacking / Setting up enormous DDOS simulations / Concept & Cybersecurity architecture development of approaches & systems for detection, prevention, and mitigation of malicious activity.
 
-Joe also spoke frequently on cyber security & hacking at professional conferences & published articles & blogs on issues relating to cybersecurity.
+* Other skills * 
+Setting up live streams for events on Youtube Live (using my own programmed software)
 
+Security Cleared for several projects.
+🌿 Seguridad de red 网络安全 أمن الشبكة
 🌿 Visit me on [LinkedIn](https://nl.linkedin.com/in/josephshenouda) or [Twitter](https://twitter.com/JoeyShenouda)
 
 Please share this list if you find it useful. Let me know if you like it
