@@ -117,7 +117,7 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[Damn Vulnerable Web Services](https://github.com/snoopysecurity/dvws)|Damn Vulnerable Web Services is an insecure web application with multiple vulnerable web service components that can be used to learn real-world web service vulnerabilities.|
 |[Damn Vulnerable Web Sockets](https://github.com/interference-security/DVWS)|Damn Vulnerable Web Sockets (DVWS) is a vulnerable web application which works on web sockets for client-server communication.|
 |[Damnvulnerable.me](https://github.com/skepticfx/damnvulnerable.me)|A deliberately vulnerable modern-day app with lots of DOM-related bugs.|
-|[Dareyourmind](http://www.dareyourmind.net/)|Online game, hacker challenge.|
+|[Dareyourmind](https://web.archive.org/web/20170618221231/http://www.dareyourmind.net/)|Online game, hacker challenge (mirror archive).|
 |[DIVA Android](https://github.com/payatu/diva-android)|Damn Insecure and vulnerable App for Android.|
 |[EnigmaGroup](https://www.enigmagroup.org/)|Safe security resource, trains in exploits listed in the OWASP Top 10 Project and teach members the many other types of exploits that are found in today's applications.|
 |[ENISA Training Material](https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material)|The European Union Agency for Network and Information Security (ENISA) Cyber Security Training. You will find training materials, handbooks for teachers, toolsets for students and Virtual Images to support hands-on training sessions.|
