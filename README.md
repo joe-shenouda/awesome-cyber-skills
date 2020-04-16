@@ -1,5 +1,5 @@
 # awesome-cyber-skills
-**A curated list of hacking environments where you can train your cyber skills legally and safely**
+**A curated list of hacking environments where you can train your cyber skills free, legally and safely**
 
 ![](https://i.imgur.com/GwhKPt6.jpg)
 
@@ -15,7 +15,7 @@ For everyone in the Information Security business, it's important to understand 
 
 In the USA, the most senior police officers, even long after their pension, are advising residents how to secure their homes better. They come to your house and tell you where your weak points are around the house. They can advise this because they KNOW their enemy, the criminal that wants to break into the house and his techniques.
 
-Training your cyber skills means also keeping your hacking skills up to date. To do this, you need an environment to practice in, legally and safely.
+Training your cyber skills means also keeping your hacking skills up to date. To do this, you need an environment to practice in, free, legally and safely.
 
 For this purpose, I have made a list of websites you can visit and practice your cyber skills. Every site has a different angle on the whole thing, so I'll summarize in a couple of words its specifics.
 
@@ -40,6 +40,7 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 "Our work is no longer to secure computers alone, it's now about securing society."
 
 ♦️ About Me ♦️
+
 Joe Shenouda is an Associate Director for Accenture Security, based in Amsterdam. He joined Accenture in May 2019. Joe is a well-known international hands-on technical leader, engineer, speaker, trainer, consultant & research fellow on all topics regarding Cybersecurity.
 
 Joe was selected in 2019 to be showcased in MT Magazine as one of the 50 most talented young leaders under the age of 45 in The Netherlands ( MT50 Next Generation Leadership ).
