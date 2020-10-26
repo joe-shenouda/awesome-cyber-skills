@@ -41,46 +41,28 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 
 ♦️ About Me ♦️
 
-Joe Shenouda is an Associate Director for Accenture Security, based in Amsterdam. He joined Accenture in May 2019. Joe is a well-known international hands-on technical leader, engineer, speaker, trainer, consultant & research fellow on all topics regarding Cybersecurity.
+Joe is a well-known international hands-on technical leader with a military background in Cybersecurity.
+For his role as a technical leader, Joe was selected in 2019 to be showcased in MT Magazine as one of the 50 most talented young leaders under the age of 45 in The Netherlands (MT50 Next Generation Leadership 2019-2020).
 
-Joe was selected in 2019 to be showcased in MT Magazine as one of the 50 most talented young leaders under the age of 45 in The Netherlands ( MT50 Next Generation Leadership ).
+Also, in the 90-ies he was one of the first Amsterdam subscribers to cable internet and was able, using “toolz”, to make his first steps into offensive and defensive cyber activities as a teenager.
 
-With his many years of experience in operational cybersecurity operations, he is currently the to go-to SME within Accenture for all IT/OT security related matters for his technical expertise.
+With his many years of experience in operational cybersecurity operations, he is currently the to-go-to SME for clients for all IT/OT ICS security-related matters for his technical expertise.
 
 Functional expertise:
-Cyber & Information Security
-Network Hacking techniques
-ICS Industrial Cyber Security
-Concept & Cybersecurity architecture
-Threat & Cyber Intelligence
+- Cyber Security Architecture
+- Network Hacking techniques
+- ICS Industrial Cyber Security (OT)
+- Managed Security Services and SOC
+- Threat & Cyber Intelligence
 
 Industry expertise:
-Policing
-National Security & Cyber Defense/Offensive
-Industrial Control Systems and Manufacturing
-Managed Security Services
+- Policing, National Security and Cyber Defense & Offense
+- Industrial Control Systems and Manufacturing
+- Managed Security Services MSS
+- Managed Detection & Response MDR
+- SOC building and leadership/management / SIEM
 
-WORK EXPERIENCE
-Verizon – Managed Services – Principal Cyber Analyst – Advanced Security Operations Center
-* Lead a team of Senior Cyber Analysts on client site for client engagement, stakeholder management and security incident coordination
-* Integrated off site security analysts into client security operations, from remote working locations and backgrounds
-* Delivered transformation and security operations process optimization for managed services clients.
-
-NATO – Cybersecurity Expert
-* Designed and advised security architecture and roadmap development for NATO forces
-
-International Society for Automation – Industrial Cybersecurity trainer
-* Created, delivered and maintained training courses for industrial security experts
-* Contributed to the Industrial Cybersecurity Standards as part of the International Society for Automation
-* Mentored and advised Industrial cyber security experts on new and innovative approaches to securing operational technology (OT) and industrial control systems (ICS)
-
-CISCO – Email Security & Web Security trainer
-* Created, delivered and maintained training for email and web vulnerabilities for Cisco technical engineering staff
-* Training cybersecurity specialists how to deploy email and web security appliances
-
-EC-COUNCIL – Advisory Board Member
-* Contributed to the creation of forensic incident response and analysis standards for policing and defence forces globally
-* Consulted about appropriate incident response and forensic analysis techniques
+Ж Active security clearance Ж 
 
 Please share this list if you find it useful. Let me know if you like it
 
