@@ -72,7 +72,6 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |:--|:--|
 |[$natch competition](http://blog.phdays.com/2012/05/once-again-about-remote-banking.html)|Remote banking system containing common vulnerabilities.|
 |[Arizona Cyber Warfare Range](http://azcwr.org/)|The ranges offer an excellent platform for you to learn computer network attack (CNA), computer network defense (CND), and digital forensics (DF). You can play any of these roles.|
-|[Avatao](https://www.avatao.com/)|More than 350 hands-on challenges (free and paid) to master IT security and it's growing day by day.|
 |[BodgeIt Store](https://github.com/psiinon/bodgeit)|The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.|
 |[bWAPP](http://www.itsecgames.com/)|buggy web application, is a free and open source deliberately insecure web application. It helps security enthusiasts, developers and students to discover and to prevent web vulnerabilities. bWAPP prepares one to conduct successful penetration testing and ethical hacking projects.|
 |[Cyber Degrees](http://www.cyberdegrees.org/resources/free-online-courses/)|Free online cyber security Massive Open Online Courses (MOOCS).|
