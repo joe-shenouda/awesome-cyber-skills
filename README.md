@@ -175,7 +175,7 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[Vulnserver](http://www.thegreycorner.com/2010/12/introducing-vulnserver.html)|Windows-based threaded TCP server application that is designed to be exploited.|
 |[W3Challs](https://w3challs.com)|W3Challs is a penetration testing training platform, which offers various computer challenges, in categories related to security|
 |[WackoPicko](https://github.com/adamdoupe/WackoPicko)|WackoPicko is a vulnerable web application used to test web application vulnerability scanners.|
-|[Web Attack and Exploitation Distro](https://www.youtube.com/watch?v=EBaFeuFlqyw/)|WAED is pre-configured with various real-world vulnerable web applications in a sandboxed environment. It includes pen testing tools as well.|
+|[Web Attack and Exploitation Distro](https://www.youtube.com/watch?v=EBaFeuFlqyw)|WAED is pre-configured with various real-world vulnerable web applications in a sandboxed environment. It includes pen testing tools as well.|
 |[Web Security Dojo](https://sourceforge.net/projects/websecuritydojo/)|Web Security Dojo is a preconfigured, stand-alone training environment for Web Application Security.|
 |[WebGoat](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)|WebGoat is a deliberately insecure web application maintained by OWASP designed to teach web application security lessons. You can install and practice with WebGoat.|
 |[Wechall](http://www.wechall.net/)|Focussed on offering computer-related problems. You will find Cryptographic, Crackit, Steganography, Programming, Logic and Math/Science. The difficulty of these challenges varies as well.|
