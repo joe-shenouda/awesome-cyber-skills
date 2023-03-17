@@ -31,25 +31,20 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 
 
 
-## About the author
----------------
-[Joe Shenouda](https://nl.linkedin.com/in/josephshenouda)
+## About the Author
 
-"Our work is no longer to secure computers alone, it's now about securing society."
+**[Joe Shenouda](https://nl.linkedin.com/in/josephshenouda)** - _"Our work is no longer to secure computers alone, it's now about securing society."_
 
-♦️ About Me ♦️
+Joe Shenouda is a seasoned cybersecurity expert with experience in engineering, consulting, and research. He has worked with leading companies like Verizon and Accenture, specializing in operational cybersecurity. Joe is passionate about mentoring and training the next generation of cybersecurity specialists, using industry standards like ISO, NIST, and CIS Controls to guide organizations in adopting best practices.
 
-Joe Shenouda is a seasoned cybersecurity expert with a diverse background in engineering, consulting, and research. His skill set enables him to develop and implement robust security solutions that bolster an organization's cybersecurity posture. Joe's experience spans across leading companies, such as Verizon and Accenture, showcasing his strong track record in the industry.
+**Accolades:**
+- Named one of the 50 most talented young leaders in the Netherlands by MT Magazine
+- Received the Goudhaantje Award in 2019
 
-As a team player, Joe specializes in operational cybersecurity, making him a valuable asset for large organizations seeking a reliable point of contact for IT/OT security-related concerns. His passion for mentoring and training the next generation of cybersecurity specialists reflects his commitment to the field. Joe excels at leveraging industry standards like ISO, NIST, and CIS Controls to guide organizations in adopting best practices.
+**Geography:** Benelux, Middle-East & Nordics (Belgium, Netherlands, Luxembourg, Denmark, Norway, Sweden, Finland, Egypt, Monaco, Vatican City)
 
-Recognized for his outstanding contributions, Joe was named one of the 50 most talented young leaders in the Netherlands by MT Magazine and received the esteemed Goudhaantje Award in 2019. In his free time, he actively participates in OSINT tasks, showcasing his dedication to continuous learning and professional growth.
+**GitHub Portfolio:** [https://github.com/joe-shenouda/](https://github.com/joe-shenouda/)
 
-By partnering with Joe, organizations gain the expertise of a dedicated cybersecurity professional focused on enhancing their security posture and safeguarding their digital assets.
-
-Geography: Benelux, Middle-East & Nordics (Belgium - Netherlands - Luxembourg - Denmark - Norway -Sweden - Finland - Egypt - Monaco - Vatican City)
-
-Github portfolio: https://github.com/joe-shenouda/ 
 
 ✨ Active security clearance ✨
 
