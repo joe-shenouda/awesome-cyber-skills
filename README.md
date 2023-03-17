@@ -36,9 +36,7 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 
 
 ## About the author
-----------------
-![](https://i.imgur.com/e8Y03gG.jpg)
-
+---------------
 [Joe Shenouda](https://nl.linkedin.com/in/josephshenouda)
 
 "Our work is no longer to secure computers alone, it's now about securing society."
@@ -60,6 +58,14 @@ Github portfolio: https://github.com/joe-shenouda/
 ✨ Active security clearance ✨
 
 Please share this list if you find it useful. Let me know if you like it
+
+## Support
+
+If you would like to support this project, you can make a donation through PayPal:
+
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.com/donate/?business=P9L4Y9YQYEW3Y&no_recurring=0&currency_code=EUR)
+
+
 
 Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͕̺͎͔͌̏m̵͈̝͎̓̓̀͆̂ẻ̴͕̲̳͝ ̸̺̽̋̒̚̕Ĉ̷̺̩̭̐͘͝ỳ̴̨̱͂́b̷̀̉̍̓̀͋̈́̚ͅḛ̸̲̝̈́̊̈́̾͑̏̀̒r̴̰̬̘̻͙̉̌̀͆̎ ̴̰͐S̷̫̜̖͍̋͌̎k̸̢̯͒͊̀̍̽͂͝͠ï̴̛̘͚͘l̴̤̬͕̺̙̮̱͇͊̉ḽ̷̝̣̪̘́̅s̷̼̜̀̉͒̈́
 
