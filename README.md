@@ -3,10 +3,6 @@
 
 ![](https://i.imgur.com/GwhKPt6.jpg)
 
-Also visit my Cyber Security News Room, a free news site that updates itself every 5 minutes with the latest cyber news and has been running since 2018: 
-[Cyber Security News Room](https://www.cyber-consult.org)
-
-
 About the list:
 ---------------
 For everyone in the Information Security business, it's important to understand the enemy, the hacker. Understanding the enemy makes you the best defender you can be to secure the digital world.
