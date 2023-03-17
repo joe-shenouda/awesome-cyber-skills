@@ -65,6 +65,8 @@ If you would like to support this project, you can make a donation through PayPa
 
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-blue)](https://www.paypal.com/donate/?business=P9L4Y9YQYEW3Y&no_recurring=0&currency_code=EUR)
 
+Don't forget to give this repo a ✨ STAR!
+
 
 
 Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͕̺͎͔͌̏m̵͈̝͎̓̓̀͆̂ẻ̴͕̲̳͝ ̸̺̽̋̒̚̕Ĉ̷̺̩̭̐͘͝ỳ̴̨̱͂́b̷̀̉̍̓̀͋̈́̚ͅḛ̸̲̝̈́̊̈́̾͑̏̀̒r̴̰̬̘̻͙̉̌̀͆̎ ̴̰͐S̷̫̜̖͍̋͌̎k̸̢̯͒͊̀̍̽͂͝͠ï̴̛̘͚͘l̴̤̬͕̺̙̮̱͇͊̉ḽ̷̝̣̪̘́̅s̷̼̜̀̉͒̈́
