@@ -26,6 +26,14 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 - [filinpavel](https://github.com/filinpavel)
 - [BenDrysdale](https://github.com/BenDrysdale)
 - [HrushikeshK](https://github.com/HrushikeshK)
+- [deveyNull](https://github.com/deveyNull)
+- [nirmalunagar](https://github.com/nirmalunagar)
+- [roya0045](https://github.com/roya0045)
+- [photoelf](https://github.com/photoelf)
+
+
+
+
 
 ## About the author
 ----------------
@@ -37,28 +45,19 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 
 ♦️ About Me ♦️
 
-Joe is a well-known international hands-on technical leader with a military background in Cybersecurity.
-For his role as a technical leader, Joe was selected in 2019 to be showcased in MT Magazine as one of the 50 most talented young leaders under the age of 45 in The Netherlands (MT50 Next Generation Leadership 2019-2020).
+Joe Shenouda is a seasoned cybersecurity expert with a diverse background in engineering, consulting, and research. His skill set enables him to develop and implement robust security solutions that bolster an organization's cybersecurity posture. Joe's experience spans across leading companies, such as Verizon and Accenture, showcasing his strong track record in the industry.
 
-Also, in the 90-ies he was one of the first Amsterdam subscribers to cable internet and was able, using “toolz”, to make his first steps into offensive and defensive cyber activities as a teenager.
+As a team player, Joe specializes in operational cybersecurity, making him a valuable asset for large organizations seeking a reliable point of contact for IT/OT security-related concerns. His passion for mentoring and training the next generation of cybersecurity specialists reflects his commitment to the field. Joe excels at leveraging industry standards like ISO, NIST, and CIS Controls to guide organizations in adopting best practices.
 
-With his many years of experience in operational cybersecurity operations, he is currently the to-go-to SME for clients for all IT/OT ICS security-related matters for his technical expertise.
+Recognized for his outstanding contributions, Joe was named one of the 50 most talented young leaders in the Netherlands by MT Magazine and received the esteemed Goudhaantje Award in 2019. In his free time, he actively participates in OSINT tasks, showcasing his dedication to continuous learning and professional growth.
 
-Functional expertise:
-- Cyber Security Architecture
-- Network Hacking techniques
-- ICS Industrial Cyber Security (OT)
-- Managed Security Services and SOC
-- Threat & Cyber Intelligence
+By partnering with Joe, organizations gain the expertise of a dedicated cybersecurity professional focused on enhancing their security posture and safeguarding their digital assets.
 
-Industry expertise:
-- Policing, National Security and Cyber Defense & Offense
-- Industrial Control Systems and Manufacturing
-- Managed Security Services MSS
-- Managed Detection & Response MDR
-- SOC building and leadership/management / SIEM
+Geography: Benelux, Middle-East & Nordics (Belgium - Netherlands - Luxembourg - Denmark - Norway -Sweden - Finland - Egypt - Monaco - Vatican City)
 
-Ж Active security clearance Ж 
+Github portfolio: https://github.com/joe-shenouda/ 
+
+✨ Active security clearance ✨
 
 Please share this list if you find it useful. Let me know if you like it
 
