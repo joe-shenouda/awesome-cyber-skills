@@ -3,21 +3,22 @@
 
 ![](https://i.imgur.com/GwhKPt6.jpg)
 
-About the list:
----------------
-For everyone in the Information Security business, it's important to understand the enemy, the hacker. Understanding the enemy makes you the best defender you can be to secure the digital world.
+## About the List
 
-> By knowing your enemy, you can defeat your enemy. 
+In the field of Information Security, understanding the enemy, the hacker, is crucial. By knowing your enemy, you can effectively defend and secure the digital world.
 
-In the USA, the most senior police officers, even long after their pension, are advising residents how to secure their homes better. They come to your house and tell you where your weak points are around the house. They can advise this because they KNOW their enemy, the criminal that wants to break into the house and his techniques.
+> "Know the enemy, and you can defeat the enemy."
 
-Training your cyber skills means also keeping your hacking skills up to date. To do this, you need an environment to practice in, free, legally and safely.
+In the USA, even high-ranking retired police officers continue to advise residents on how to better secure their homes. They visit houses and identify weak points, sharing their knowledge of the criminals' techniques to help prevent break-ins.
 
-For this purpose, I have made a list of websites you can visit and practice your cyber skills. Every site has a different angle on the whole thing, so I'll summarize in a couple of words its specifics.
+To hone your cybersecurity skills, you need to keep your hacking skills up-to-date. To achieve this, a safe, legal, and free environment is necessary for practice.
 
-Some sites will offer you tutorials to help you, others will require you to find things on your own.
+This list compiles websites that offer various opportunities to practice your cyber skills. Each site has a unique approach, and a brief description is provided to highlight its focus.
 
-I will update this post below regularly and add sites to this post so bookmark it and/or follow me to see the latest overview. 
+Some sites offer tutorials to guide you, while others encourage self-directed exploration.
+
+This post will be regularly updated with new sites, so bookmark it or follow me to stay informed with the latest overview.
+
 
 If you are missing a site not mentioned in the list, feel free to [contribute](https://github.com/joe-shenouda/awesome-cyber-skills/blob/master/CONTRIBUTING).
 
