@@ -160,6 +160,7 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[Ringzero](https://ringzer0team.com/challenges)|Challenges you can solve and gain points.|
 |[Risk3Sixty](http://www.risk3sixty.com/free-information-security-training/)|Free Information Security training video, an information security examination and the exam answer key.|
 |[Root Me](https://www.root-me.org/)|Hundreds of challenges and virtual environments. Each challenge can be associated with a multitude of solutions so you can learn.|
+|[Roppers Academy Training](https://www.hoppersroppers.org/training.html)|Free courses on computing and security fundamentals designed to train a beginner to crush their first CTF.|
 |[RPISEC/MBE](https://github.com/RPISEC/MBE)|Modern Binary Exploitation Course materials.|
 |[RPISEC/Malware](https://github.com/RPISEC/Malware)|Malware Analysis Course materials.|
 |[SANS Cyber Aces](http://www.cyberaces.org/courses/)|SANS Cyber Aces Online makes available, free and online, selected courses from the professional development curriculum offered by The SANS Institute, the global leader in cyber security training.|
