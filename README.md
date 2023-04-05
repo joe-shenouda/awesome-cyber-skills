@@ -32,7 +32,7 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 
 
 ## About the Author
-[LinkedIn](https://www.linkedin.com/in/josephshenouda/) 🌍 [Twitter](https://twitter.com/JoeyShenouda)
+[LinkedIn](https://www.linkedin.com/in/josephshenouda/) 🌍 [Twitter](https://twitter.com/JoeyShenouda) 🌍 [Cybersecurity News](https://www.cyber-consult.org)
 
 **[Joe Shenouda](https://nl.linkedin.com/in/josephshenouda)** - _"Our work is no longer to secure computers alone, it's now about securing society."_
 
