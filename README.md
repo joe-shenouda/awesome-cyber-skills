@@ -1,7 +1,7 @@
 # awesome-cyber-skills
 **A curated list of hacking environments where you can train your cyber skills free, legally and safely**
 
-![](https://user-images.githubusercontent.com/24913656/230711431-916cae57-1be5-4f20-a16c-d43907471d2a.gif)
+![](https://user-images.githubusercontent.com/24913656/230711515-f0848676-f967-4690-9914-40646ec40c4a.png)
 
 ## About the List
 
