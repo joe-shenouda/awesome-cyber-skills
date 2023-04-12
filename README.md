@@ -65,7 +65,7 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 
 |Site name|Description|
 |:--|:--|
-|[Altoro Mutual](https://demo.testfire.net/index.jsp){:target="_blank" rel="noopener"}|Altoro is a fake banking website, containing various security vulnerabilities.|
+|[Altoro Mutual](https://demo.testfire.net/index.jsp)|Altoro is a fake banking website, containing various security vulnerabilities.|
 |[Arizona Cyber Warfare Range](http://azcwr.org/)|The ranges offer an excellent platform for you to learn computer network attack (CNA), computer network defense (CND), and digital forensics (DF). You can play any of these roles.|
 |[Attack-Defense](https://attackdefense.com)|Attack-Defense: A free enviroment with over 1000 labs, ranging from post exploitation, to web app pentesting and event assembly shellcoding. Weekly labs also available.|
 |[AzureGoat](https://github.com/ine-labs/AzureGoat)|AzureGoat : A Damn Vulnerable Azure Infrastructure.|
