@@ -184,6 +184,7 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[Wechall](http://www.wechall.net/)|Focussed on offering computer-related problems. You will find Cryptographic, Crackit, Steganography, Programming, Logic and Math/Science. The difficulty of these challenges varies as well.|
 |[XSS-game](https://xss-game.appspot.com/)|In this training program, you will learn to find and exploit XSS bugs. You'll use this knowledge to confuse and infuriate your adversaries by preventing such bugs from happening in your applications.|
 |[XVWA](https://github.com/s4n7h0/xvwa)|XVWA is a badly coded web application written in PHP/MySQL that helps security enthusiasts to learn application security.|
+|[Pentest-Ground](https://pentest-ground.com)|Pentest-Ground is a collection of web applications that helps security enthusiasts to learn how to use their exploits and implement CVEs for free.|
 
 
 
