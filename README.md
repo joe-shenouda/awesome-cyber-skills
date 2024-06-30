@@ -112,7 +112,6 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[HackSys Extreme Vulnerable Driver](https://github.com/hacksysteam/HackSysExtremeVulnerableDriver/)|HackSys Extreme Vulnerable Driver is intentionally vulnerable Windows driver developed for security enthusiasts to learn and polish their exploitation skills at Kernel level.|
 |[HackThis!!](https://www.hackthis.co.uk/)|Test your skills with 50+ hacking levels, covering all aspects of security.|
 |[Hackxor](https://hackxor.net/)|Hackxor is a web app hacking game where players must locate and exploit vulnerabilities to progress through the story. Think WebGoat but with a plot and a focus on realism&difficulty. Contains XSS, CSRF, SQLi, ReDoS, DOR, command injection, etc.|
-|[Hax.Tor](http://hax.tor.hu/welcome/)|Provides numerous interesting “hacking” challenges to the user.|
 |[Hellbound Hackers](https://www.hellboundhackers.org/)|Learn a hands-on approach to computer security. Learn how hackers break in, and how to keep them out.|
 |[Holynix](https://sourceforge.net/projects/holynix/files/)|Holynix is a Linux VMware image that was deliberately built to have security holes for the purposes of penetration testing.|
 |[HSCTF3](http://hsctf.com/)|HSCTF is an international online hacking competition designed to educate high schoolers in computer science.|
