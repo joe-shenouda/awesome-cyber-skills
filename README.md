@@ -24,7 +24,7 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 
 ## CONTRIBUTORS
 
-[foleranser](https://github.com/foleranser) • [filinpavel](https://github.com/filinpavel) • [BenDrysdale](https://github.com/BenDrysdale) • [HrushikeshK](https://github.com/HrushikeshK) • [deveyNull](https://github.com/deveyNull) • [nirmalunagar](https://github.com/nirmalunagar) • [roya0045](https://github.com/roya0045) • [photoelf](https://github.com/photoelf)
+[foleranser](https://github.com/foleranser) • [filinpavel](https://github.com/filinpavel) • [BenDrysdale](https://github.com/BenDrysdale) • [HrushikeshK](https://github.com/HrushikeshK) • [deveyNull](https://github.com/deveyNull) • [nirmalunagar](https://github.com/nirmalunagar) • [roya0045](https://github.com/roya0045) • [photoelf](https://github.com/photoelf) • [AverageS](https://github.com/AverageS) • [pentesttools-com](https://github.com/pentesttools-com) • [Warxim](https://github.com/Warxim)
 
 
 
