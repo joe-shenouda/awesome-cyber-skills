@@ -104,7 +104,6 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[Hack The Box](https://www.hackthebox.eu/)|Hack The Box is an online platform allowing you to test your penetration testing skills and exchange ideas and methodologies with other members of similar interests. In order to join you should solve an entry-level challenge.|
 |[Hack This Site](https://www.hackthissite.org/)|More than just another hacker wargames site, Hack This Site is a living, breathing community with many active projects in development, with a vast selection of hacking articles and a huge forum where users can discuss hacking, network security, and just about everything.|
 |[Hack Yourself First](https://hackyourselffirst.troyhunt.com/)|This course is designed to help web developers on all frameworks identify risks in their own websites before attackers do and it uses this site extensively to demonstrate risks.|
-|[Hack.me](https://hack.me/)|Hack.me aims to be the largest collection of "runnable" vulnerable web applications, code samples and CMS's online. The platform is available without any restriction to any party interested in Web Application Security.|
 |[Hackademic](https://github.com/Hackademic/hackademic)|Offers realistic scenarios full of known vulnerabilities (especially, of course, the OWASP Top Ten) for those trying to practice their attack skills.|
 |[Hackazon](https://github.com/rapid7/hackazon)|A modern vulnerable web app.|
 |[Hackertest.net](http://www.hackertest.net/)|HackerTest.net is your own online hacker simulation with 20 levels.|
