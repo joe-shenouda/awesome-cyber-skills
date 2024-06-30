@@ -163,10 +163,8 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[Try2Hack](https://www.try2hack.lt/en/)|Try2hack provides several security-oriented challenges for your entertainment. The challenges are diverse and get progressively harder.|
 |[TryHackMe](https://tryhackme.com)|TryHackMe is an online platform that teaches Cybersecurity through hands-on virtual labs. Whether you are an expert or beginner, learn through a virtual room structure to understand theoretical and practical security elements.|
 |[UltimateLAMP](http://www.amanhardikar.com/mindmaps/practice-links.html)|UltimateLAMP is a fully functional environment allowing you to easily try and evaluate a number of LAMP stack software products without requiring any specific setup or configuration of these products.|
-|[Vicnum](https://owasp.org/www-project-vicnum/migrated_content)|Vicnum is an OWASP project consisting of vulnerable web applications based on games commonly used to kill time. These applications demonstrate common web security problems such as cross-site scripting, SQL injections, and session management issues.|
 |[Vulnerable Node](https://github.com/cr0hn/vulnerable-node)|A very vulnerable web site written in NodeJS to explore various vulnerabilities.|
 |[Vulnhub](https://www.vulnhub.com/)|An extensive  collection of vulnerable VMs with user-created solutions.|
-|[Vulnix](https://www.rebootuser.com/?page_id=1041)|A vulnerable Linux host with configuration weaknesses rather than purposely vulnerable software versions.|
 |[Vulnserver](http://www.thegreycorner.com/2010/12/introducing-vulnserver.html)|Windows-based threaded TCP server application that is designed to be exploited.|
 |[W3Challs](https://w3challs.com)|W3Challs is a penetration testing training platform, which offers various computer challenges, in categories related to security|
 |[WackoPicko](https://github.com/adamdoupe/WackoPicko)|WackoPicko is a vulnerable web application used to test web application vulnerability scanners.|
