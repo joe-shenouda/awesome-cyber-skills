@@ -157,7 +157,6 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[SocketToMe](https://digi.ninja/projects/sockettome.php)|SocketToMe SocketToMe is little application for testing web sockets.|
 |[SQLI labs](https://github.com/Audi-1/sqli-labs)|SQLI labs to test error based, Blind boolean based, Time based.|
 |[Sqlilabs](https://github.com/himadriganguly/sqlilabs)|Lab set-up for learning SQL Injection Techniques.|
-|[SQLzoo](http://sqlzoo.net/hack/)|Try your Hacking skills against this test system. It takes you through the exploit step-by-step.|
 |[Stanford SecuriBench / Securibench Micro](https://github.com/too4words/securibench-micro/)|Stanford SecuriBench / Securibench Micro is a series of small test cases designed to excercise different parts of a static security analyzer. Each test case in Securibench Micro comes with an answer, which simplifies the comparison process.|
 |[The ButterFly - Security Project](https://sourceforge.net/projects/thebutterflytmp/?source=navbar)|The ButterFly project is an educational environment intended to give an insight into common web application and PHP vulnerabilities. The environment also includes examples demonstrating how such vulnerabilities are mitigated.|
 |[ThisIsLegal](http://www.thisislegal.com/)|A hacker wargames site but also with much more.|
