@@ -65,7 +65,7 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 
 |Site name|Description|
 |:--|:--|
-| <a href="https://demo.testfire.net/index.jsp" target="_blank">Altoro Mutual</a> | Altoro is a fake banking website, containing various security vulnerabilities. |
+|[Altoro Mutual](https://demo.testfire.net/index.jsp)|Altoro is a fake banking website, containing various security vulnerabilities.| 
 |[Arizona Cyber Warfare Range](http://azcwr.org/)|The ranges offer an excellent platform for you to learn computer network attack (CNA), computer network defense (CND), and digital forensics (DF). You can play any of these roles.|
 |[AzureGoat](https://github.com/ine-labs/AzureGoat)|AzureGoat : A Damn Vulnerable Azure Infrastructure.|
 |[BodgeIt Store](https://github.com/psiinon/bodgeit)|The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.|
