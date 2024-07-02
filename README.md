@@ -1,7 +1,7 @@
 # awesome-cyber-skills
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/joe-shenouda/Ripples.svg)](https://github.com/joe-shenouda/Ripples/stargazers)
-[![Forks](https://img.shields.io/github/forks/joe-shenouda/Ripples.svg)](https://github.com/joe-shenouda/Ripples/network/members)
+[![Stars](https://img.shields.io/github/stars/joe-shenouda/awesome-cyber-skills.svg)](https://github.com/joe-shenouda/awesome-cyber-skills/stargazers)
+[![Forks](https://img.shields.io/github/forks/joe-shenouda/awesome-cyber-skills.svg)](https://github.com/joe-shenouda/awesome-cyber-skills/network/members)
 **A curated list of hacking environments where you can train your cyber skills free, legally and safely**
 
 ![](https://user-images.githubusercontent.com/24913656/230711515-f0848676-f967-4690-9914-40646ec40c4a.png)
