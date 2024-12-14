@@ -144,6 +144,7 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[PicoCTF](https://picoctf.com/)|picoCTF is a computer security game targeted at middle and high school students. The game consists of a series of challenges centered around a unique storyline where participants must reverse engineer, break, hack, decrypt, or do whatever it takes to solve the challenge.|
 |[Professor Messer](http://www.professormesser.com/)|Good free training video's, not only on Security but on CompTIA A+, Network and Microsoft related as well.|
 |[Puzzlemall](https://code.google.com/archive/p/puzzlemall/)|PuzzleMall - A vulnerable web application for practicing session puzzling.|
+|[pwn.guide](http://pwn.guide/)|pwn.guide is a cybersecurity education website with about 100 tutorials on both the free & paid tiers. The tutorials talk about web, wireless, hardware hacking, forensics, defense...|
 |[Pwnable.kr](http://pwnable.kr/)|'pwnable.kr' is a non-commercial wargame site which provides various pwn challenges regarding system exploitation. while playing pwnable.kr, you could learn/improve system hacking skills but that shouldn't be your only purpose.|
 |[Pwnos](https://www.vulnhub.com/entry/pwnos-20-pre-release,34/)|PwnOS is a vulnerable by design OS .. and there are many ways you can hack it.|
 |[Reversing.kr](http://reversing.kr)|This site tests your ability to Cracking & Reverse Code Engineering.|
