@@ -69,6 +69,7 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 
 |Site name|Description|
 |:--|:--|
+|[Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)|The largest open-source collection of 750+ structured cybersecurity skills for AI agents, mapped to MITRE ATT&CK and NIST CSF 2.0.|
 |[Altoro Mutual](https://demo.testfire.net/index.jsp)|Altoro is a fake banking website, containing various security vulnerabilities.| 
 |[Arizona Cyber Warfare Range](http://azcwr.org/)|The ranges offer an excellent platform for you to learn computer network attack (CNA), computer network defense (CND), and digital forensics (DF). You can play any of these roles.|
 |[AzureGoat](https://github.com/ine-labs/AzureGoat)|AzureGoat : A Damn Vulnerable Azure Infrastructure.|
@@ -186,4 +187,5 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͕̺͎͔͌̏m̵͈̝͎̓̓̀͆̂ẻ̴͕̲̳͝ ̸̺̽̋̒̚̕Ĉ̷̺̩̭̐͘͝ỳ̴̨̱͂́b̷̀̉̍̓̀͋̈́̚ͅḛ̸̲̝̈́̊̈́̾͑̏̀̒r̴̰̬̘̻͙̉̌̀͆̎ ̴̰͐S̷̫̜̖͍̋͌̎k̸̢̯͒͊̀̍̽͂͝͠ï̴̛̘͚͘l̴̤̬͕̺̙̮̱͇͊̉ḽ̷̝̣̪̘́̅s̷̼̜̀̉͒̈́
 
 ![](https://user-images.githubusercontent.com/24913656/230711569-50e16175-47f1-4073-9fff-ad3008541036.png)
+
 
