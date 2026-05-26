@@ -164,6 +164,7 @@ Ạ̸͛̀̑̚w̷̙͓͊̑̈́͂̀̈́ẻ̸̟̝̒͠s̸̛̜̣͖̘̪̦͂͂̃͛͜o̷͌̏�
 |[SQLI labs](https://github.com/Audi-1/sqli-labs)|SQLI labs to test error based, Blind boolean based, Time based.|
 |[Sqlilabs](https://github.com/himadriganguly/sqlilabs)|Lab set-up for learning SQL Injection Techniques.|
 |[Stanford SecuriBench / Securibench Micro](https://github.com/too4words/securibench-micro/)|Stanford SecuriBench / Securibench Micro is a series of small test cases designed to excercise different parts of a static security analyzer. Each test case in Securibench Micro comes with an answer, which simplifies the comparison process.|
+|[techlogia Lab](https://techlogia.de/en/lab)|techlogia Lab is a free, browser-based hacking lab teaching Linux server hardening, OWASP Top 10 web security, and GDPR-aware operations. Built for vocational schools and self-learners in the EU. Fully isolated VMs hosted in Germany, no install required, no tracking. Content licensed under CC-BY 4.0.|
 |[The ButterFly - Security Project](https://sourceforge.net/projects/thebutterflytmp/?source=navbar)|The ButterFly project is an educational environment intended to give an insight into common web application and PHP vulnerabilities. The environment also includes examples demonstrating how such vulnerabilities are mitigated.|
 |[ThisIsLegal](http://www.thisislegal.com/)|A hacker wargames site but also with much more.|
 |[Try2Hack](https://www.try2hack.lt/en/)|Try2hack provides several security-oriented challenges for your entertainment. The challenges are diverse and get progressively harder.|
