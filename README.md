@@ -16,7 +16,6 @@
 
 <div align="center">
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=github&label=STARS)](https://github.com/joe-shenouda/awesome-cyber-skills/stargazers)
 [![Forks](https://img.shields.io/github/forks/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=github&label=FORKS)](https://github.com/joe-shenouda/awesome-cyber-skills/network/members)
 [![Last commit](https://img.shields.io/github/last-commit/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=git)](https://github.com/joe-shenouda/awesome-cyber-skills/commits/master)
