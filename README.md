@@ -34,7 +34,6 @@ Welcome to **awesome-cyber-skills** — your one-stop library for free, legal, a
 ## 📑 Table of Contents
 
 - [📖 About the List](#-about-the-list)
-- [📊 Stats & Activity](#-stats--activity)
 - [🗂️ Categories](#-categories)
 - [⚖️ Difficulty Levels](#-difficulty-levels)
 - [🚀 The Sites](#-the-sites)
@@ -64,23 +63,6 @@ This list compiles websites that offer various opportunities to practice your cy
 - 🔄 The list is **regularly updated** — bookmark it or watch for new sites
 
 If you are missing a site not mentioned in the list, feel free to [contribute](https://github.com/joe-shenouda/awesome-cyber-skills/blob/master/CONTRIBUTING).
-
-## 📊 Stats & Activity
-
-<div align="center">
-
-![GitHub stars](https://img.shields.io/github/stars/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=github&label=STARS&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=github&label=FORKS&color=blue)
-![GitHub watchers](https://img.shields.io/github/watchers/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=github&label=WATCHERS&color=lightgrey)
-![Last commit](https://img.shields.io/github/last-commit/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=git&label=LAST%20COMMIT&color=brightgreen)
-![Commit activity](https://img.shields.io/github/commit-activity/m/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=github&label=COMMITS%2FMONTH&color=success)
-![Contributors](https://img.shields.io/github/contributors/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=github&label=CONTRIBUTORS&color=orange)
-![Open issues](https://img.shields.io/github/issues/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=github&label=ISSUES&color=red)
-![Open PRs](https://img.shields.io/github/issues-pr/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=github&label=PRs&color=purple)
-![Top language](https://img.shields.io/github/languages/top/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=markdown&label=TOP%20LANG&color=blueviolet)
-![Code size](https://img.shields.io/github/languages/code-size/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=files&label=CODE%20SIZE&color=informational)
-
-</div>
 
 ## 🗂️ Categories
 
