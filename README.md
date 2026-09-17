@@ -230,7 +230,9 @@ Every entry on this list is **completely free**. No trials, no freemium, no payw
 
 <div align="center">
 
-[![Contributors](https://contrib.rocks/preview?repo=joe-shenouda/awesome-cyber-skills&max=24&theme=tokyonight)](https://github.com/joe-shenouda/awesome-cyber-skills/graphs/contributors)
+[![Contributors]<a href="https://github.com/joe-shenouda/awesome-cyber-skills/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=joe-shenouda/awesome-cyber-skills" />
+</a>](https://github.com/joe-shenouda/awesome-cyber-skills/graphs/contributors)
 
 </div>
 
