@@ -8,8 +8,6 @@
 
 # 🛡️ awesome-cyber-skills
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&random=false&width=520&lines=Train+cyber+skills+FREE%2C+legal+%26+safe;100%2B+platforms+to+practice+on;Hack+ethically+always" alt="Typing SVG" />
-
 **A curated list of hacking environments where you can train your cyber skills free, legally and safely.**
 
 </div>
