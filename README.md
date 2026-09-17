@@ -24,7 +24,6 @@
 [![Contributors](https://img.shields.io/github/contributors/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/graphs/contributors)
 [![Open issues](https://img.shields.io/github/issues/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/issues)
 [![Open PRs](https://img.shields.io/github/issues-pr/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=github)](https://github.com/joe-shenouda/awesome-cyber-skills/pulls)
-[![Code size](https://img.shields.io/github/languages/code-size/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=files)](https://github.com/joe-shenouda/awesome-cyber-skills)
 
 </div>
 
