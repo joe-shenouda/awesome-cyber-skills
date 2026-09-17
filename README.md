@@ -271,10 +271,6 @@ If you found this list useful, please consider starring the repository and shari
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/JoeyShenouda?style=for-the-badge&logo=twitter&color=1DA1F2&label=Follow%20%40JoeyShenouda)](https://twitter.com/JoeyShenouda)
 
-![Profile views](https://komarev.com/ghpvc/?username=joe-shenouda&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge)
-
-![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=joe-shenouda.awesome-cyber-skills&style=for-the-badge)
-
 </div>
 
 ## 👤 About the Author
