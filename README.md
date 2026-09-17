@@ -81,6 +81,7 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 ![Code size](https://img.shields.io/github/languages/code-size/joe-shenouda/awesome-cyber-skills.svg?style=for-the-badge&logo=files&label=CODE%20SIZE&color=informational)
 
 </div>
+
 ## 🗂️ Categories
 
 | Emoji | Category | Sites |
