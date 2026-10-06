@@ -69,7 +69,7 @@ If you are missing a site not mentioned in the list, feel free to [contribute](h
 | 🔐 | Cryptography | 2 |
 | 🔍 | Reverse Engineering | 16 |
 | 🎯 | CTF / Wargame | 31 |
-| 🛡️ | Blue Team / DFIR / SOC | 3 |
+| 🛡️ | Blue Team / DFIR / SOC | 4 |
 | ☁️ | Cloud Security | 1 |
 | 📱 | Mobile Security | 4 |
 | 🖥️ | System / Network / Exploitation | 8 |
@@ -190,33 +190,34 @@ Use the categories legend below or `Ctrl+F` to jump to what you need.
 | 91 | [Wechall](http://www.wechall.net/) | 🎯 | 🟡 | Focussed on offering computer-related problems. You will find Cryptographic, Crackit, Steganography, Programming, Logic and Math/Science. The difficulty of these challenges varies as well. |
 | 92 | [Blue Team Labs Online (BTLO)](https://blueteamlabs.online/) | 🛡️ | 🟡 | 🆕 NEW — A gamified platform for cyber defenders to practice security investigations and challenges covering Incident Response, Digital Forensics, Security Operations, and Reverse Engineering. |
 | 93 | [CyberDefenders](https://cyberdefenders.org/) | 🛡️ | 🟡 | 🆕 NEW — Free platform to upskill and benchmark SOC analysts with real-world cyber-range investigations, blue-team challenges, and structured learning paths. |
-| 94 | [LetsDefend](https://letsdefend.io/) | 🛡️ | 🟢 | 🆕 NEW — Hands-on blue-team training platform with learning paths, MITRE ATT&CK-mapped courses, and browser-based incident-response challenges for SOC analysts. |
-| 95 | [CloudGoat (AWS)](https://github.com/RhinoSecurityLabs/cloudgoat) | ☁️ | 🟡 | 🆕 NEW — A deliberately vulnerable AWS infrastructure by Rhino Security Labs for learning cloud-pentesting techniques; spins up vulnerable scenarios you can attack and tear down. |
-| 96 | [DIVA Android](https://github.com/payatu/diva-android) | 📱 | 🟢 | Damn Insecure and vulnerable App for Android. |
-| 97 | [ExploitMe Mobile](http://securitycompass.github.io/AndroidLabs/index.html) | 📱 | 🟡 | Set of labs and an exploitable framework for you to hack mobile an application on Android. |
-| 98 | [OWASP GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) | 📱 | 🟢 | OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security. GoatDroid requires minimal dependencies and is ideal for both Android beginners as well as more advanced users. |
-| 99 | [OWASP iGoat](https://wiki.owasp.org/index.php/OWASP_iGoat_Tool_Project) | 📱 | 🟢 | iGoat is a learning tool for iOS developers (iPhone, iPad, etc.). |
-| 100 | [Holynix](https://sourceforge.net/projects/holynix/files/) | 🖥️ | 🟡 | Holynix is a Linux VMware image that was deliberately built to have security holes for the purposes of penetration testing. |
-| 101 | [LAMPSecurity Training](https://sourceforge.net/projects/lampsecurity/) | 🖥️ | 🟡 | LAMPSecurity training is designed to be a series of vulnerable virtual machine images along with complementary documentation designed to teach Linux,apache,PHP,MySQL security. |
-| 102 | [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) | 🖥️ | 🟡 | Free Ethical Hacking Course. |
-| 103 | [Metasploitable 3](https://github.com/rapid7/metasploitable3) | 🖥️ | 🟡 | Metasploitable3 is a VM that is built from the ground up with a large number of security vulnerabilities. |
-| 104 | [Morning Catch](http://blog.cobaltstrike.com/2014/08/06/introducing-morning-catch-a-phishing-paradise/) | 🖥️ | 🟡 | Morning Catch is a VMware virtual machine, similar to Metasploitable, to demonstrate and teach about targeted client-side attacks and post-exploitation. |
-| 105 | [Pwnos](https://www.vulnhub.com/entry/pwnos-20-pre-release,34/) | 🖥️ | 🟡 | PwnOS is a vulnerable by design OS .. and there are many ways you can hack it. |
-| 106 | [Scene One](https://www.vulnhub.com/entry/21ltr-scene-1,3/) | 🖥️ | 🟡 | Scene One is a pen testing scenario liveCD made for a bit of fun and learning. |
-| 107 | [Vulnhub](https://www.vulnhub.com/) | 🖥️ | 🟡 | An extensive  collection of vulnerable VMs with user-created solutions. |
-| 108 | [Cyber Security Base](https://cybersecuritybase.github.io/) | 🧰 | 🟢 | Cyber Security Base is a page with free courses by the University of Helsinki in collaboration with F-Secure. |
-| 109 | [CyberTraining 365](https://www.cybertraining365.com/cybertraining/FreeClasses) | 🧰 | 🟢 | Cybertraining365 has paid material but also offers free classes. The link is directed at the free classes. |
-| 110 | [Cybrary.it](https://www.cybrary.it/) | 🧰 | 🟢 | Free and Open Source Cyber Security Learning. |
-| 111 | [Information Assurance Support Environment (IASE)](https://public.cyber.mil/cyber-training/training-catalog/?_training_types=3-training-student-self-paced) | 🧰 | 🟢 | Great site with Cybersecurity Awareness Training, Cybersecurity Training for IT Managers, Cybersecurity Training for Cybersecurity Professionals, Cybersecurity Technical Training, NetOps Training, Cyber Law Awareness, and FSO Tools Training available online. |
-| 112 | [National Institutes of Health (NIH)](https://irtsectraining.nih.gov/publicUser.aspx) | 🧰 | 🟢 | Short courses on Information Security and Privacy Awareness. They have a section for executives, managers and IT Administrators as well. |
-| 113 | [OpenSecurityTraining.info](http://opensecuritytraining.info/Training.html) | 🧰 | 🟡 | OpenSecurityTraining.info is dedicated to sharing training material for computer security classes, on any topic, that are at least one day long. |
-| 114 | [Roppers Academy Training](https://www.hoppersroppers.org/training.html) | 🧰 | 🟢 | Free courses on computing and security fundamentals designed to train a beginner to crush their first CTF. |
-| 115 | [RPISEC/MBE](https://github.com/RPISEC/MBE) | 🧰 | 🔴 | Modern Binary Exploitation Course materials. |
-| 116 | [SANS Cyber Aces](http://www.cyberaces.org/courses/) | 🧰 | 🟢 | SANS Cyber Aces Online makes available, free and online, selected courses from the professional development curriculum offered by The SANS Institute, the global leader in cyber security training. |
-| 117 | [SEED Labs](https://seedsecuritylabs.org/) | 🧰 | 🟡 | The SEED project has labs on Software, Network, Web, Mobile and System security and Cryptography labs. |
-| 118 | [UltimateLAMP](http://www.amanhardikar.com/mindmaps/practice-links.html) | 🧰 | 🟡 | UltimateLAMP is a fully functional environment allowing you to easily try and evaluate a number of LAMP stack software products without requiring any specific setup or configuration of these products. |
-| 119 | [SlaveHack](http://www.slavehack.com/) | 🎮 | 🟢 | My personal favorite: Slavehack is a virtual hack simulation game. Great for starters, I've seen kids in elementary school playing this! |
-| 120 | [SlaveHack 2 *BETA*](https://www.slavehack2.com/) | 🎮 | 🟢 | Slavehack 2 is a sequel to the original Slavehack. It's also a virtual hack simulation game but you will find features much closer to today's Cyber reality. |
+| 94 | [cybersecurity101.net Security Labs](https://cybersecurity101.net/labs/) | 🛡️ | 🟢 | 🆕 NEW — 257 free, step-by-step defensive labs across Linux, Windows, Active Directory and security monitoring (Wazuh). They run on your own machine: no account, no hosted platform. Every lab has expected output, validation and cleanup, starting from opening a terminal. |
+| 95 | [LetsDefend](https://letsdefend.io/) | 🛡️ | 🟢 | 🆕 NEW — Hands-on blue-team training platform with learning paths, MITRE ATT&CK-mapped courses, and browser-based incident-response challenges for SOC analysts. |
+| 96 | [CloudGoat (AWS)](https://github.com/RhinoSecurityLabs/cloudgoat) | ☁️ | 🟡 | 🆕 NEW — A deliberately vulnerable AWS infrastructure by Rhino Security Labs for learning cloud-pentesting techniques; spins up vulnerable scenarios you can attack and tear down. |
+| 97 | [DIVA Android](https://github.com/payatu/diva-android) | 📱 | 🟢 | Damn Insecure and vulnerable App for Android. |
+| 98 | [ExploitMe Mobile](http://securitycompass.github.io/AndroidLabs/index.html) | 📱 | 🟡 | Set of labs and an exploitable framework for you to hack mobile an application on Android. |
+| 99 | [OWASP GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project) | 📱 | 🟢 | OWASP GoatDroid is a fully functional and self-contained training environment for educating developers and testers on Android security. GoatDroid requires minimal dependencies and is ideal for both Android beginners as well as more advanced users. |
+| 100 | [OWASP iGoat](https://wiki.owasp.org/index.php/OWASP_iGoat_Tool_Project) | 📱 | 🟢 | iGoat is a learning tool for iOS developers (iPhone, iPad, etc.). |
+| 101 | [Holynix](https://sourceforge.net/projects/holynix/files/) | 🖥️ | 🟡 | Holynix is a Linux VMware image that was deliberately built to have security holes for the purposes of penetration testing. |
+| 102 | [LAMPSecurity Training](https://sourceforge.net/projects/lampsecurity/) | 🖥️ | 🟡 | LAMPSecurity training is designed to be a series of vulnerable virtual machine images along with complementary documentation designed to teach Linux,apache,PHP,MySQL security. |
+| 103 | [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) | 🖥️ | 🟡 | Free Ethical Hacking Course. |
+| 104 | [Metasploitable 3](https://github.com/rapid7/metasploitable3) | 🖥️ | 🟡 | Metasploitable3 is a VM that is built from the ground up with a large number of security vulnerabilities. |
+| 105 | [Morning Catch](http://blog.cobaltstrike.com/2014/08/06/introducing-morning-catch-a-phishing-paradise/) | 🖥️ | 🟡 | Morning Catch is a VMware virtual machine, similar to Metasploitable, to demonstrate and teach about targeted client-side attacks and post-exploitation. |
+| 106 | [Pwnos](https://www.vulnhub.com/entry/pwnos-20-pre-release,34/) | 🖥️ | 🟡 | PwnOS is a vulnerable by design OS .. and there are many ways you can hack it. |
+| 107 | [Scene One](https://www.vulnhub.com/entry/21ltr-scene-1,3/) | 🖥️ | 🟡 | Scene One is a pen testing scenario liveCD made for a bit of fun and learning. |
+| 108 | [Vulnhub](https://www.vulnhub.com/) | 🖥️ | 🟡 | An extensive  collection of vulnerable VMs with user-created solutions. |
+| 109 | [Cyber Security Base](https://cybersecuritybase.github.io/) | 🧰 | 🟢 | Cyber Security Base is a page with free courses by the University of Helsinki in collaboration with F-Secure. |
+| 110 | [CyberTraining 365](https://www.cybertraining365.com/cybertraining/FreeClasses) | 🧰 | 🟢 | Cybertraining365 has paid material but also offers free classes. The link is directed at the free classes. |
+| 111 | [Cybrary.it](https://www.cybrary.it/) | 🧰 | 🟢 | Free and Open Source Cyber Security Learning. |
+| 112 | [Information Assurance Support Environment (IASE)](https://public.cyber.mil/cyber-training/training-catalog/?_training_types=3-training-student-self-paced) | 🧰 | 🟢 | Great site with Cybersecurity Awareness Training, Cybersecurity Training for IT Managers, Cybersecurity Training for Cybersecurity Professionals, Cybersecurity Technical Training, NetOps Training, Cyber Law Awareness, and FSO Tools Training available online. |
+| 113 | [National Institutes of Health (NIH)](https://irtsectraining.nih.gov/publicUser.aspx) | 🧰 | 🟢 | Short courses on Information Security and Privacy Awareness. They have a section for executives, managers and IT Administrators as well. |
+| 114 | [OpenSecurityTraining.info](http://opensecuritytraining.info/Training.html) | 🧰 | 🟡 | OpenSecurityTraining.info is dedicated to sharing training material for computer security classes, on any topic, that are at least one day long. |
+| 115 | [Roppers Academy Training](https://www.hoppersroppers.org/training.html) | 🧰 | 🟢 | Free courses on computing and security fundamentals designed to train a beginner to crush their first CTF. |
+| 116 | [RPISEC/MBE](https://github.com/RPISEC/MBE) | 🧰 | 🔴 | Modern Binary Exploitation Course materials. |
+| 117 | [SANS Cyber Aces](http://www.cyberaces.org/courses/) | 🧰 | 🟢 | SANS Cyber Aces Online makes available, free and online, selected courses from the professional development curriculum offered by The SANS Institute, the global leader in cyber security training. |
+| 118 | [SEED Labs](https://seedsecuritylabs.org/) | 🧰 | 🟡 | The SEED project has labs on Software, Network, Web, Mobile and System security and Cryptography labs. |
+| 119 | [UltimateLAMP](http://www.amanhardikar.com/mindmaps/practice-links.html) | 🧰 | 🟡 | UltimateLAMP is a fully functional environment allowing you to easily try and evaluate a number of LAMP stack software products without requiring any specific setup or configuration of these products. |
+| 120 | [SlaveHack](http://www.slavehack.com/) | 🎮 | 🟢 | My personal favorite: Slavehack is a virtual hack simulation game. Great for starters, I've seen kids in elementary school playing this! |
+| 121 | [SlaveHack 2 *BETA*](https://www.slavehack2.com/) | 🎮 | 🟢 | Slavehack 2 is a sequel to the original Slavehack. It's also a virtual hack simulation game but you will find features much closer to today's Cyber reality. |
 
 
 ## 💸 All Sites Are Free
